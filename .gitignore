@@ -42,3 +42,7 @@ next-env.d.ts
 
 # Prepared migration files; active source stays untouched.
 /migration-output/
+
+# Local originals; active media is delivered from Cloudinary.
+/public/assets/
+/public/brand/

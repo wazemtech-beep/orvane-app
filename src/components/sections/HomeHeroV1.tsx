@@ -20,10 +20,11 @@ export default function HomeHeroV1() {
         <div hero-one="image-one" className="rt-hero-v1-image-wrap">
           <Image
             src={content.heroBannerImage2Image}
+            preload
             alt={content.heroBannerImage2Alt}
             width={3840}
             height={2000}
-            sizes="(max-width: 767px) 100vw, (max-width: 1200px) 70vw, 1440px"
+            sizes="100vw"
           />
         </div>
         <div className="rt-hero-v1-image-overlay"></div>

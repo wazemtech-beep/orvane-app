@@ -1,4 +1,5 @@
 "use client";
+import DeferredVideo from "@/components/ui/DeferredVideo";
 import { useRef } from "react";
 import Image from "next/image";
 import { BackgroundVideo } from "@/components/ui/Interactive";
@@ -56,19 +57,19 @@ export default function ServiceSection4() {
             </div>
             <div train-item="">
               <BackgroundVideo
-                data-poster-url="/assets/c6e5315fdb-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster.0000000.jpg"
-                data-video-urls="/assets/0a628cbbe0-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4.mp4,/assets/aa0172e4f4-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm.webm"
+                data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581892/wazemtech/orvane/9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster-0000000-65950dd717a4.jpg"
+                data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581897/wazemtech/orvane/e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4-c4d37618e3c0.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581898/wazemtech/orvane/01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm-fe704c606e64.webm"
                 data-autoplay="true"
                 data-loop="true"
                 className="rt-portfolio-slider-video-card rt-z-index rt-radius-small rt-full-height w-background-video w-background-video-atom"
               >
-                <video
+                <DeferredVideo
                   id="0e15e217-318e-a497-fe1f-518be4c49a3e-video"
                   autoPlay={true}
                   loop={true}
                   style={{
                     backgroundImage:
-                      'url("/assets/c6e5315fdb-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster.0000000.jpg")',
+                      'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581892/wazemtech/orvane/9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster-0000000-65950dd717a4.jpg")',
                   }}
                   muted={true}
                   playsInline={true}
@@ -76,7 +77,7 @@ export default function ServiceSection4() {
                 >
                   <source src={content.mp4Image} />
                   <source src={content.webmImage} />
-                </video>
+                </DeferredVideo>
 
                 <div aria-live="polite">
                   <button
@@ -129,19 +130,19 @@ export default function ServiceSection4() {
             </div>
             <div train-item="">
               <BackgroundVideo
-                data-poster-url="/assets/e835942851-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster.0000000.jpg"
-                data-video-urls="/assets/2e6885672f-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4.mp4,/assets/6992025546-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm.webm"
+                data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581897/wazemtech/orvane/a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster-0000000-be634979f162.jpg"
+                data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581904/wazemtech/orvane/4e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4-af2cb0929d2a.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581907/wazemtech/orvane/e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm-586c512e7170.webm"
                 data-autoplay="true"
                 data-loop="true"
                 className="rt-portfolio-slider-video-card rt-z-index rt-radius-small rt-full-height w-background-video w-background-video-atom"
               >
-                <video
+                <DeferredVideo
                   id="172b1c17-fadb-0491-a4ed-98426b59fc83-video"
                   autoPlay={true}
                   loop={true}
                   style={{
                     backgroundImage:
-                      'url("/assets/e835942851-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster.0000000.jpg")',
+                      'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581897/wazemtech/orvane/a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster-0000000-be634979f162.jpg")',
                   }}
                   muted={true}
                   playsInline={true}
@@ -149,7 +150,7 @@ export default function ServiceSection4() {
                 >
                   <source src={content.mp4Image2} />
                   <source src={content.webmImage2} />
-                </video>
+                </DeferredVideo>
 
                 <div aria-live="polite">
                   <button

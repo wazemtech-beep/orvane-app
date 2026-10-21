@@ -1070,7 +1070,7 @@
   top: var(--_sizes---spacing--gap-0);
   right: var(--_sizes---spacing--gap-0);
   bottom: var(--_sizes---spacing--gap-0);
-  background-image: url("/assets/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles.svg");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles-28b011da7b55.svg");
   background-position: 50%;
   background-size: contain;
   position: absolute;
@@ -1702,7 +1702,7 @@
   border: var(--_sizes---border-width--border-width-v1) solid
     var(--_colors---border-color--border-color-primary);
   background-color: var(--_colors---color-tint--neutral-400-a0);
-  background-image: url("/assets/997f761a55-6a8d53e69749ca38d29d5192_check-icon.svg");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792581969/wazemtech/orvane/997f761a55-6a8d53e69749ca38d29d5192_check-icon-7e622f1174c4.svg");
   background-position: 50%;
   background-size: auto;
 }

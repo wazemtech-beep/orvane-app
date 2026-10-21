@@ -1,0 +1,2616 @@
+{
+  "cloudName": "dj4rfocct",
+  "folder": "wazemtech/orvane",
+  "assets": {
+    "/assets/48d646b081-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_poster.0000000.jpg": {
+      "source": "/assets/48d646b081-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_poster.0000000.jpg",
+      "spellings": [
+        "/assets/48d646b081-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_poster.0000000.jpg"
+      ],
+      "checksum": "9512f45fc2986b7ddc641b5b096e564b2916f6124d162f0dde702d3b5f4275db",
+      "resourceType": "image",
+      "extension": ".jpg",
+      "publicId": "wazemtech/orvane/4e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_poster-0000000-9512f45fc298",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581888/wazemtech/orvane/4e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_poster-0000000-9512f45fc298.jpg",
+      "bytes": 118844,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581888,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581888/wazemtech/orvane/4e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_poster-0000000-9512f45fc298.jpg",
+      "verified": true,
+      "deliveryBytes": 86492,
+      "contentType": "image/webp"
+    },
+    "/brand/orvane-mark.png": {
+      "source": "/brand/orvane-mark.png",
+      "spellings": [
+        "/brand/orvane-mark.png"
+      ],
+      "checksum": "88b2d868a5b2fdae47282819f54a6bc2401cbb36d658ef241b3d2ced5d94435b",
+      "resourceType": "image",
+      "extension": ".png",
+      "publicId": "wazemtech/orvane/orvane-mark-88b2d868a5b2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581888/wazemtech/orvane/orvane-mark-88b2d868a5b2.png",
+      "bytes": 648563,
+      "width": 1254,
+      "height": 1254,
+      "version": 1792581888,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581888/wazemtech/orvane/orvane-mark-88b2d868a5b2.png",
+      "verified": true,
+      "deliveryBytes": 100746,
+      "contentType": "image/webp"
+    },
+    "/assets/f9f8a4307d-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_poster.0000000.jpg": {
+      "source": "/assets/f9f8a4307d-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_poster.0000000.jpg",
+      "spellings": [
+        "/assets/f9f8a4307d-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_poster.0000000.jpg"
+      ],
+      "checksum": "e50d821a308ee8454444b74defbcd245dbf98c65f51bd5ae2f7b5218908707af",
+      "resourceType": "image",
+      "extension": ".jpg",
+      "publicId": "wazemtech/orvane/0f5_PixVerse_V6_Image_Text_540P_one_professional_w_poster-0000000-e50d821a308e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581888/wazemtech/orvane/0f5_PixVerse_V6_Image_Text_540P_one_professional_w_poster-0000000-e50d821a308e.jpg",
+      "bytes": 57737,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581888,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581888/wazemtech/orvane/0f5_PixVerse_V6_Image_Text_540P_one_professional_w_poster-0000000-e50d821a308e.jpg",
+      "verified": true,
+      "deliveryBytes": 27236,
+      "contentType": "image/webp"
+    },
+    "/assets/b8f6f0ea8c-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_mp4.mp4": {
+      "source": "/assets/b8f6f0ea8c-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_mp4.mp4",
+      "spellings": [
+        "/assets/b8f6f0ea8c-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_mp4.mp4"
+      ],
+      "checksum": "30c2227ec6b8f6029c1760d2bf66a41936f271c6a7a60a91c6c33bbd8b03dd58",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/orvane/80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_mp4-30c2227ec6b8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581890/wazemtech/orvane/80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_mp4-30c2227ec6b8.mp4",
+      "bytes": 753211,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581890,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581890/wazemtech/orvane/80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_mp4-30c2227ec6b8.mp4",
+      "verified": true,
+      "deliveryBytes": 426824,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/5bb1e8d329-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_webm.webm": {
+      "source": "/assets/5bb1e8d329-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_webm.webm",
+      "spellings": [
+        "/assets/5bb1e8d329-6a6c2b8f2c2c7e64e01bc1d6-6a85a132ef80e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_webm.webm"
+      ],
+      "checksum": "7d3b8848c746891da7f18e65d67914e0875cd949e5b0dc9b48a8e33802647e29",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/orvane/0e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_webm-7d3b8848c746",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581890/wazemtech/orvane/0e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_webm-7d3b8848c746.webm",
+      "bytes": 1502289,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581890,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581890/wazemtech/orvane/0e89ae336b0f5_PixVerse_V6_Image_Text_540P_one_professional_w_webm-7d3b8848c746.webm",
+      "verified": true,
+      "deliveryBytes": 282265,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/c6e5315fdb-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster.0000000.jpg": {
+      "source": "/assets/c6e5315fdb-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster.0000000.jpg",
+      "spellings": [
+        "/assets/c6e5315fdb-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster.0000000.jpg"
+      ],
+      "checksum": "65950dd717a4c55c56494f473214bec1b96764e0e61cb73d608606aea13c5b47",
+      "resourceType": "image",
+      "extension": ".jpg",
+      "publicId": "wazemtech/orvane/9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster-0000000-65950dd717a4",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581892/wazemtech/orvane/9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster-0000000-65950dd717a4.jpg",
+      "bytes": 118006,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581892,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581892/wazemtech/orvane/9524b3de5c498550138000_10614143-hd_1920_1080_30fps_poster-0000000-65950dd717a4.jpg",
+      "verified": true,
+      "deliveryBytes": 79060,
+      "contentType": "image/webp"
+    },
+    "/assets/e835942851-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster.0000000.jpg": {
+      "source": "/assets/e835942851-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster.0000000.jpg",
+      "spellings": [
+        "/assets/e835942851-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster.0000000.jpg"
+      ],
+      "checksum": "be634979f162cab9e790157a6918cecca575aff4b61289282a0ba3b10625df00",
+      "resourceType": "image",
+      "extension": ".jpg",
+      "publicId": "wazemtech/orvane/a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster-0000000-be634979f162",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581897/wazemtech/orvane/a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster-0000000-be634979f162.jpg",
+      "bytes": 94937,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581897,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581897/wazemtech/orvane/a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_poster-0000000-be634979f162.jpg",
+      "verified": true,
+      "deliveryBytes": 59492,
+      "contentType": "image/webp"
+    },
+    "/assets/0a628cbbe0-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4.mp4": {
+      "source": "/assets/0a628cbbe0-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4.mp4",
+      "spellings": [
+        "/assets/0a628cbbe0-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4.mp4"
+      ],
+      "checksum": "c4d37618e3c07a52be20816889c0a3cca29b18d42485d64cbe014df37e70c556",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/orvane/e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4-c4d37618e3c0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581897/wazemtech/orvane/e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4-c4d37618e3c0.mp4",
+      "bytes": 2100920,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581897,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581897/wazemtech/orvane/e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_mp4-c4d37618e3c0.mp4",
+      "verified": true,
+      "deliveryBytes": 1119196,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/aa0172e4f4-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm.webm": {
+      "source": "/assets/aa0172e4f4-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm.webm",
+      "spellings": [
+        "/assets/aa0172e4f4-6a6c2b8f2c2c7e64e01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm.webm"
+      ],
+      "checksum": "fe704c606e640ba5141d07d80b711ff3e76e716cbd0f418849f82312311a68f4",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/orvane/01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm-fe704c606e64",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581898/wazemtech/orvane/01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm-fe704c606e64.webm",
+      "bytes": 3210465,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581898,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581898/wazemtech/orvane/01bc1d6-6a9524b3de5c498550138000_10614143-hd_1920_1080_30fps_webm-fe704c606e64.webm",
+      "verified": true,
+      "deliveryBytes": 500208,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/2e6885672f-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4.mp4": {
+      "source": "/assets/2e6885672f-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4.mp4",
+      "spellings": [
+        "/assets/2e6885672f-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4.mp4"
+      ],
+      "checksum": "af2cb0929d2a4763509d3d2fd9772424d6e7d37c535ac5136ba8f49a0cc30b75",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/orvane/4e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4-af2cb0929d2a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581904/wazemtech/orvane/4e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4-af2cb0929d2a.mp4",
+      "bytes": 2556527,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581904,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581904/wazemtech/orvane/4e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_mp4-af2cb0929d2a.mp4",
+      "verified": true,
+      "deliveryBytes": 1608296,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/6992025546-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm.webm": {
+      "source": "/assets/6992025546-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm.webm",
+      "spellings": [
+        "/assets/6992025546-6a6c2b8f2c2c7e64e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm.webm"
+      ],
+      "checksum": "586c512e71700519c9d5c4a4c27cfef58fc0f663f2881304cdf22cb1e5b4569d",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/orvane/e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm-586c512e7170",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581907/wazemtech/orvane/e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm-586c512e7170.webm",
+      "bytes": 2671246,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581907,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581907/wazemtech/orvane/e01bc1d6-6a95275560d2c065fd291d25_17224730-hd_1280_720_30fps_webm-586c512e7170.webm",
+      "verified": true,
+      "deliveryBytes": 1458558,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/c7cbf1b0ff-6a840148089f4318bad2f9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image.avif": {
+      "source": "/assets/c7cbf1b0ff-6a840148089f4318bad2f9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image.avif",
+      "spellings": [
+        "/assets/c7cbf1b0ff-6a840148089f4318bad2f9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image.avif"
+      ],
+      "checksum": "c0ecc00738dc58003eb1ffd263fbeb64ad5309f1c3091803b9de7317c71addc1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image-c0ecc00738dc",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581909/wazemtech/orvane/9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image-c0ecc00738dc.avif",
+      "bytes": 7824,
+      "width": 632,
+      "height": 400,
+      "version": 1792581909,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581909/wazemtech/orvane/9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image-c0ecc00738dc.avif",
+      "verified": true,
+      "deliveryBytes": 7824,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581909/wazemtech/orvane/9aa_09aeedafd207ed0baad832931a6e64e9_hero-one-banner-bottom-image-c0ecc00738dc.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/da307f8f3e-6a83e06831933f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2.avif": {
+      "source": "/assets/da307f8f3e-6a83e06831933f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2.avif",
+      "spellings": [
+        "/assets/da307f8f3e-6a83e06831933f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2.avif"
+      ],
+      "checksum": "989590f4a9119de5c484b5cc4d059bc9c8ad76c80fe8165953b45e60054c754e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/3f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2-989590f4a911",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581909/wazemtech/orvane/3f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2-989590f4a911.avif",
+      "bytes": 92906,
+      "width": 3840,
+      "height": 2000,
+      "version": 1792581909,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581909/wazemtech/orvane/3f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2-989590f4a911.avif",
+      "verified": true,
+      "deliveryBytes": 92906,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581909/wazemtech/orvane/3f0e4fcadea4_b9ca8fe9bee9ab3f49f9973cd65e0557_hero-banner-image-2-989590f4a911.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a1434dc2a2-6a718d512ff6ec08f4923b4d_about-work-image-7.avif": {
+      "source": "/assets/a1434dc2a2-6a718d512ff6ec08f4923b4d_about-work-image-7.avif",
+      "spellings": [
+        "/assets/a1434dc2a2-6a718d512ff6ec08f4923b4d_about-work-image-7.avif"
+      ],
+      "checksum": "f1d6300d9641563a0052e811dd95033022a29f4faec65106b7e2695498390215",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/a1434dc2a2-6a718d512ff6ec08f4923b4d_about-work-image-7-f1d6300d9641",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581911/wazemtech/orvane/a1434dc2a2-6a718d512ff6ec08f4923b4d_about-work-image-7-f1d6300d9641.avif",
+      "bytes": 3491,
+      "width": 93,
+      "height": 90,
+      "version": 1792581911,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581911/wazemtech/orvane/a1434dc2a2-6a718d512ff6ec08f4923b4d_about-work-image-7-f1d6300d9641.avif",
+      "verified": true,
+      "deliveryBytes": 1338,
+      "contentType": "image/webp"
+    },
+    "/assets/f7e586fa5e-6a718d51108c711c58056779_about-work-image-8.avif": {
+      "source": "/assets/f7e586fa5e-6a718d51108c711c58056779_about-work-image-8.avif",
+      "spellings": [
+        "/assets/f7e586fa5e-6a718d51108c711c58056779_about-work-image-8.avif"
+      ],
+      "checksum": "5da168e8e3aea75df01f38d80bbcb5feca57e75910fd8620b124ba99a57a03a0",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/f7e586fa5e-6a718d51108c711c58056779_about-work-image-8-5da168e8e3ae",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581912/wazemtech/orvane/f7e586fa5e-6a718d51108c711c58056779_about-work-image-8-5da168e8e3ae.avif",
+      "bytes": 1931,
+      "width": 64,
+      "height": 63,
+      "version": 1792581912,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581912/wazemtech/orvane/f7e586fa5e-6a718d51108c711c58056779_about-work-image-8-5da168e8e3ae.avif",
+      "verified": true,
+      "deliveryBytes": 720,
+      "contentType": "image/webp"
+    },
+    "/assets/b18c114894-6a718d5112e7f808e60d5d0a_about-work-image-1.avif": {
+      "source": "/assets/b18c114894-6a718d5112e7f808e60d5d0a_about-work-image-1.avif",
+      "spellings": [
+        "/assets/b18c114894-6a718d5112e7f808e60d5d0a_about-work-image-1.avif"
+      ],
+      "checksum": "79a66f3ef83656f2d3e60677ed28ad0a8d89db0bf7c81ec28c4c54a1bb8cce46",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/b18c114894-6a718d5112e7f808e60d5d0a_about-work-image-1-79a66f3ef836",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581913/wazemtech/orvane/b18c114894-6a718d5112e7f808e60d5d0a_about-work-image-1-79a66f3ef836.avif",
+      "bytes": 3838,
+      "width": 87,
+      "height": 90,
+      "version": 1792581913,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581913/wazemtech/orvane/b18c114894-6a718d5112e7f808e60d5d0a_about-work-image-1-79a66f3ef836.avif",
+      "verified": true,
+      "deliveryBytes": 1598,
+      "contentType": "image/webp"
+    },
+    "/assets/78210ba6a6-6a718d51c51d203bd2173faa_63a89bc50d5787cf03e7bcf7771bdfac_about-work-image-5.avif": {
+      "source": "/assets/78210ba6a6-6a718d51c51d203bd2173faa_63a89bc50d5787cf03e7bcf7771bdfac_about-work-image-5.avif",
+      "spellings": [
+        "/assets/78210ba6a6-6a718d51c51d203bd2173faa_63a89bc50d5787cf03e7bcf7771bdfac_about-work-image-5.avif"
+      ],
+      "checksum": "7791748ef48fed95d8037ebd1020cf05e0de77d16ebeee0756fb70d5aab313f0",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/d203bd2173faa_63a89bc50d5787cf03e7bcf7771bdfac_about-work-image-5-7791748ef48f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581914/wazemtech/orvane/d203bd2173faa_63a89bc50d5787cf03e7bcf7771bdfac_about-work-image-5-7791748ef48f.avif",
+      "bytes": 1716,
+      "width": 152,
+      "height": 150,
+      "version": 1792581914,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581914/wazemtech/orvane/d203bd2173faa_63a89bc50d5787cf03e7bcf7771bdfac_about-work-image-5-7791748ef48f.avif",
+      "verified": true,
+      "deliveryBytes": 1310,
+      "contentType": "image/webp"
+    },
+    "/assets/139bf92951-6a718d51d1061ee878cd5d88_about-work-image-10.avif": {
+      "source": "/assets/139bf92951-6a718d51d1061ee878cd5d88_about-work-image-10.avif",
+      "spellings": [
+        "/assets/139bf92951-6a718d51d1061ee878cd5d88_about-work-image-10.avif"
+      ],
+      "checksum": "382c66429953783b999230fb0fd20ba25472729c1af4e334864e6fe8ad1bdb89",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/139bf92951-6a718d51d1061ee878cd5d88_about-work-image-10-382c66429953",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581915/wazemtech/orvane/139bf92951-6a718d51d1061ee878cd5d88_about-work-image-10-382c66429953.avif",
+      "bytes": 4915,
+      "width": 132,
+      "height": 131,
+      "version": 1792581915,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581915/wazemtech/orvane/139bf92951-6a718d51d1061ee878cd5d88_about-work-image-10-382c66429953.avif",
+      "verified": true,
+      "deliveryBytes": 1994,
+      "contentType": "image/webp"
+    },
+    "/assets/9ecb2f1b3e-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_webm.webm": {
+      "source": "/assets/9ecb2f1b3e-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_webm.webm",
+      "spellings": [
+        "/assets/9ecb2f1b3e-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_webm.webm"
+      ],
+      "checksum": "f669c96fc2f21a6617ad3dc3d9443ee49b11f5f42f649e897acbaa58f2360764",
+      "resourceType": "video",
+      "extension": ".webm",
+      "publicId": "wazemtech/orvane/b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_webm-f669c96fc2f2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581915/wazemtech/orvane/b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_webm-f669c96fc2f2.webm",
+      "bytes": 21369774,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581915,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581915/wazemtech/orvane/b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_webm-f669c96fc2f2.webm",
+      "verified": true,
+      "deliveryBytes": 11962156,
+      "contentType": "video/webm;codecs=vp9"
+    },
+    "/assets/9d54a35d34-6a718d51d1061ee878cd5d8b_about-work-image-4.avif": {
+      "source": "/assets/9d54a35d34-6a718d51d1061ee878cd5d8b_about-work-image-4.avif",
+      "spellings": [
+        "/assets/9d54a35d34-6a718d51d1061ee878cd5d8b_about-work-image-4.avif"
+      ],
+      "checksum": "0cbc934058ac6140611bf5521c244a7ede499ee9447a5cdd2f80ec59dcdc68a2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/9d54a35d34-6a718d51d1061ee878cd5d8b_about-work-image-4-0cbc934058ac",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581916/wazemtech/orvane/9d54a35d34-6a718d51d1061ee878cd5d8b_about-work-image-4-0cbc934058ac.avif",
+      "bytes": 3650,
+      "width": 102,
+      "height": 103,
+      "version": 1792581916,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581916/wazemtech/orvane/9d54a35d34-6a718d51d1061ee878cd5d8b_about-work-image-4-0cbc934058ac.avif",
+      "verified": true,
+      "deliveryBytes": 1378,
+      "contentType": "image/webp"
+    },
+    "/assets/4635cc12b6-6a718d516fa16fbeec0110ce_about-work-image-9.avif": {
+      "source": "/assets/4635cc12b6-6a718d516fa16fbeec0110ce_about-work-image-9.avif",
+      "spellings": [
+        "/assets/4635cc12b6-6a718d516fa16fbeec0110ce_about-work-image-9.avif"
+      ],
+      "checksum": "7a3b50559f9480749dff6ebe37ad9b55d7c50337ad9db8fc409a2e9f19293e92",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/4635cc12b6-6a718d516fa16fbeec0110ce_about-work-image-9-7a3b50559f94",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581917/wazemtech/orvane/4635cc12b6-6a718d516fa16fbeec0110ce_about-work-image-9-7a3b50559f94.avif",
+      "bytes": 6224,
+      "width": 152,
+      "height": 151,
+      "version": 1792581917,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581917/wazemtech/orvane/4635cc12b6-6a718d516fa16fbeec0110ce_about-work-image-9-7a3b50559f94.avif",
+      "verified": true,
+      "deliveryBytes": 2394,
+      "contentType": "image/webp"
+    },
+    "/assets/1446ddf061-6a718d5169d8e781814444c9_about-work-image-3.avif": {
+      "source": "/assets/1446ddf061-6a718d5169d8e781814444c9_about-work-image-3.avif",
+      "spellings": [
+        "/assets/1446ddf061-6a718d5169d8e781814444c9_about-work-image-3.avif"
+      ],
+      "checksum": "0d11babb07961436ff11ba4401579049937fc679084982eb78801718242dce07",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/1446ddf061-6a718d5169d8e781814444c9_about-work-image-3-0d11babb0796",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581917/wazemtech/orvane/1446ddf061-6a718d5169d8e781814444c9_about-work-image-3-0d11babb0796.avif",
+      "bytes": 5473,
+      "width": 137,
+      "height": 139,
+      "version": 1792581917,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581917/wazemtech/orvane/1446ddf061-6a718d5169d8e781814444c9_about-work-image-3-0d11babb0796.avif",
+      "verified": true,
+      "deliveryBytes": 1686,
+      "contentType": "image/webp"
+    },
+    "/assets/29ba9ce116-6a7ae2967d8c788c1c6eadf8_502f720cbd77cceaacc5746f9c4c6b16_milestone-plus-icon.svg": {
+      "source": "/assets/29ba9ce116-6a7ae2967d8c788c1c6eadf8_502f720cbd77cceaacc5746f9c4c6b16_milestone-plus-icon.svg",
+      "spellings": [
+        "/assets/29ba9ce116-6a7ae2967d8c788c1c6eadf8_502f720cbd77cceaacc5746f9c4c6b16_milestone-plus-icon.svg"
+      ],
+      "checksum": "9c2a1e89b8335f21d3e66a0aec2d2277eac0855d68829f8e1039885c256b7d35",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/788c1c6eadf8_502f720cbd77cceaacc5746f9c4c6b16_milestone-plus-icon-9c2a1e89b833",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581917/wazemtech/orvane/788c1c6eadf8_502f720cbd77cceaacc5746f9c4c6b16_milestone-plus-icon-9c2a1e89b833.svg",
+      "bytes": 174,
+      "width": 73,
+      "height": 73,
+      "version": 1792581917,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581917/wazemtech/orvane/788c1c6eadf8_502f720cbd77cceaacc5746f9c4c6b16_milestone-plus-icon-9c2a1e89b833.svg",
+      "verified": true,
+      "deliveryBytes": 174,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/861dbb174f-6a7d8d953b821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1.avif": {
+      "source": "/assets/861dbb174f-6a7d8d953b821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1.avif",
+      "spellings": [
+        "/assets/861dbb174f-6a7d8d953b821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1.avif"
+      ],
+      "checksum": "3fe7a2cd51c8a7a32264b579b77f8a0ee09c7b036bed77b7cf1550f13ac1829a",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1-3fe7a2cd51c8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581919/wazemtech/orvane/821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1-3fe7a2cd51c8.avif",
+      "bytes": 15632,
+      "width": 1008,
+      "height": 782,
+      "version": 1792581919,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581919/wazemtech/orvane/821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1-3fe7a2cd51c8.avif",
+      "verified": true,
+      "deliveryBytes": 15632,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581919/wazemtech/orvane/821eaf69b45bef_95ac2a478eee7d971b9be65216d33455_milestone-image-1-3fe7a2cd51c8.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/3873d51497-6a86c74bbaddb5703299826d_milestone-icon-2.svg": {
+      "source": "/assets/3873d51497-6a86c74bbaddb5703299826d_milestone-icon-2.svg",
+      "spellings": [
+        "/assets/3873d51497-6a86c74bbaddb5703299826d_milestone-icon-2.svg"
+      ],
+      "checksum": "982083cfa2eea198378ec393919f7753493f84196fa7d6dea068a720743e957b",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/3873d51497-6a86c74bbaddb5703299826d_milestone-icon-2-982083cfa2ee",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581919/wazemtech/orvane/3873d51497-6a86c74bbaddb5703299826d_milestone-icon-2-982083cfa2ee.svg",
+      "bytes": 6767,
+      "width": 39,
+      "height": 39,
+      "version": 1792581919,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581919/wazemtech/orvane/3873d51497-6a86c74bbaddb5703299826d_milestone-icon-2-982083cfa2ee.svg",
+      "verified": true,
+      "deliveryBytes": 6767,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/97acc1956e-6a7d8d9543d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2.avif": {
+      "source": "/assets/97acc1956e-6a7d8d9543d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2.avif",
+      "spellings": [
+        "/assets/97acc1956e-6a7d8d9543d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2.avif"
+      ],
+      "checksum": "9023734663dbc71dfa03ad1c050ebfd4fcb3d6aaac1152ed07c13f0251500bd7",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2-9023734663db",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581920/wazemtech/orvane/d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2-9023734663db.avif",
+      "bytes": 16344,
+      "width": 1008,
+      "height": 782,
+      "version": 1792581920,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581920/wazemtech/orvane/d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2-9023734663db.avif",
+      "verified": true,
+      "deliveryBytes": 16344,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581920/wazemtech/orvane/d1e7bbda9b3001_dd7c17cfc988c8189ed66db95d58a17a_milestone-image-2-9023734663db.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/9018085468-6a7ae0f3b245cbd08da54a24_32298665df592488796f7d4497333054_milestone-icon-1.svg": {
+      "source": "/assets/9018085468-6a7ae0f3b245cbd08da54a24_32298665df592488796f7d4497333054_milestone-icon-1.svg",
+      "spellings": [
+        "/assets/9018085468-6a7ae0f3b245cbd08da54a24_32298665df592488796f7d4497333054_milestone-icon-1.svg"
+      ],
+      "checksum": "3f430ffa323838d530d85554b80141c34abfe99c2ca0c58fefd364ad743958bb",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/245cbd08da54a24_32298665df592488796f7d4497333054_milestone-icon-1-3f430ffa3238",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581920/wazemtech/orvane/245cbd08da54a24_32298665df592488796f7d4497333054_milestone-icon-1-3f430ffa3238.svg",
+      "bytes": 2228,
+      "width": 44,
+      "height": 39,
+      "version": 1792581920,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581920/wazemtech/orvane/245cbd08da54a24_32298665df592488796f7d4497333054_milestone-icon-1-3f430ffa3238.svg",
+      "verified": true,
+      "deliveryBytes": 2228,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/342e553766-6a7d8d951ffce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3.avif": {
+      "source": "/assets/342e553766-6a7d8d951ffce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3.avif",
+      "spellings": [
+        "/assets/342e553766-6a7d8d951ffce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3.avif"
+      ],
+      "checksum": "e7a35e87d1d1f548c993ebdb773020b8981cd3c8400dc1582c7ec4802b1300d2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/fce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3-e7a35e87d1d1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581921/wazemtech/orvane/fce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3-e7a35e87d1d1.avif",
+      "bytes": 60756,
+      "width": 1008,
+      "height": 782,
+      "version": 1792581921,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581921/wazemtech/orvane/fce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3-e7a35e87d1d1.avif",
+      "verified": true,
+      "deliveryBytes": 60756,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581921/wazemtech/orvane/fce2f923425f36_c138519fa803c3498ca65a3bc389f631_milestone-image-3-e7a35e87d1d1.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a7a783f870-6a86c74bb2132969194a3d5c_milestone-icon-3.svg": {
+      "source": "/assets/a7a783f870-6a86c74bb2132969194a3d5c_milestone-icon-3.svg",
+      "spellings": [
+        "/assets/a7a783f870-6a86c74bb2132969194a3d5c_milestone-icon-3.svg"
+      ],
+      "checksum": "78b747ab72daf394a3e9b6e3b9cd57efbc8f2378e71c14421aebd122c50cc7ea",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/a7a783f870-6a86c74bb2132969194a3d5c_milestone-icon-3-78b747ab72da",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581921/wazemtech/orvane/a7a783f870-6a86c74bb2132969194a3d5c_milestone-icon-3-78b747ab72da.svg",
+      "bytes": 9826,
+      "width": 39,
+      "height": 39,
+      "version": 1792581921,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581921/wazemtech/orvane/a7a783f870-6a86c74bb2132969194a3d5c_milestone-icon-3-78b747ab72da.svg",
+      "verified": true,
+      "deliveryBytes": 9826,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/81476c9ec8-6a86bf01db6a9dc42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3.avif": {
+      "source": "/assets/81476c9ec8-6a86bf01db6a9dc42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3.avif",
+      "spellings": [
+        "/assets/81476c9ec8-6a86bf01db6a9dc42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3.avif"
+      ],
+      "checksum": "e8e0772ae069cca9dec7509d56ec7db817bdb2f401658d50d5e44382f4397943",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3-e8e0772ae069",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581923/wazemtech/orvane/42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3-e8e0772ae069.avif",
+      "bytes": 128227,
+      "width": 1800,
+      "height": 1680,
+      "version": 1792581923,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581923/wazemtech/orvane/42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3-e8e0772ae069.avif",
+      "verified": true,
+      "deliveryBytes": 128227,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581923/wazemtech/orvane/42a36ec50_c04201ae5643bdc27329c38ef3190c6a_service-image-change-3-e8e0772ae069.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/53fe7cf065-6a86bf02db6a9dc42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2.avif": {
+      "source": "/assets/53fe7cf065-6a86bf02db6a9dc42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2.avif",
+      "spellings": [
+        "/assets/53fe7cf065-6a86bf02db6a9dc42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2.avif"
+      ],
+      "checksum": "3cebff233781d6fc86eebaa46d4d1b262617226725c1d9e36cf78feb4972a629",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2-3cebff233781",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581923/wazemtech/orvane/42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2-3cebff233781.avif",
+      "bytes": 101405,
+      "width": 1800,
+      "height": 1680,
+      "version": 1792581923,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581923/wazemtech/orvane/42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2-3cebff233781.avif",
+      "verified": true,
+      "deliveryBytes": 101405,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581923/wazemtech/orvane/42a36ec9b_0522af8b9e6f4c0f47b4222b4be6dc26_service-image-change-2-3cebff233781.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/5bb7c9d2b2-6a86bf01b7cbaae47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1.avif": {
+      "source": "/assets/5bb7c9d2b2-6a86bf01b7cbaae47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1.avif",
+      "spellings": [
+        "/assets/5bb7c9d2b2-6a86bf01b7cbaae47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1.avif"
+      ],
+      "checksum": "f4dcbb1be13cfc95a374cb1fe5b9c1117917abfc764d1dce3e287d63e11eb0db",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1-f4dcbb1be13c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581923/wazemtech/orvane/47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1-f4dcbb1be13c.avif",
+      "bytes": 65258,
+      "width": 1800,
+      "height": 1680,
+      "version": 1792581923,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581923/wazemtech/orvane/47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1-f4dcbb1be13c.avif",
+      "verified": true,
+      "deliveryBytes": 65258,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581923/wazemtech/orvane/47bb45c18_bd74bb1e0d5d59209e663292e5bac4c7_service-image-change-1-f4dcbb1be13c.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/c347f8bc49-6a86bf0113a86d34f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4.avif": {
+      "source": "/assets/c347f8bc49-6a86bf0113a86d34f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4.avif",
+      "spellings": [
+        "/assets/c347f8bc49-6a86bf0113a86d34f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4.avif"
+      ],
+      "checksum": "a826eaefe8014ba406dac5b4d475371101dc9b8d48be50852ac020eb497210e7",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/4f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4-a826eaefe801",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581925/wazemtech/orvane/4f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4-a826eaefe801.avif",
+      "bytes": 57766,
+      "width": 1800,
+      "height": 1680,
+      "version": 1792581925,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581925/wazemtech/orvane/4f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4-a826eaefe801.avif",
+      "verified": true,
+      "deliveryBytes": 57766,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581925/wazemtech/orvane/4f79affec_d250c4e068e966319ef4033217b3e219_service-image-change-4-a826eaefe801.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/c95b394611-6a8688c6861451046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1.avif": {
+      "source": "/assets/c95b394611-6a8688c6861451046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1.avif",
+      "spellings": [
+        "/assets/c95b394611-6a8688c6861451046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1.avif"
+      ],
+      "checksum": "371eec459cc9c1c0a7237a6fd301fe4035e22133aa72271dbd6ffc6a7471e7d2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/1046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1-371eec459cc9",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581925/wazemtech/orvane/1046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1-371eec459cc9.avif",
+      "bytes": 56715,
+      "width": 1012,
+      "height": 542,
+      "version": 1792581925,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581925/wazemtech/orvane/1046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1-371eec459cc9.avif",
+      "verified": true,
+      "deliveryBytes": 56715,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581925/wazemtech/orvane/1046878ab24_d5854ea3c8405b031a9c7687cf06cb84_service-image-side-1-371eec459cc9.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1140e27fa2-6a8688c591f5b3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3.avif": {
+      "source": "/assets/1140e27fa2-6a8688c591f5b3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3.avif",
+      "spellings": [
+        "/assets/1140e27fa2-6a8688c591f5b3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3.avif"
+      ],
+      "checksum": "4ecb118bb122f4f70bf265d39b312d6dddec353aa9667f138e3f1a9bbb3c59c9",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3-4ecb118bb122",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581927/wazemtech/orvane/3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3-4ecb118bb122.avif",
+      "bytes": 28784,
+      "width": 1012,
+      "height": 542,
+      "version": 1792581927,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581927/wazemtech/orvane/3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3-4ecb118bb122.avif",
+      "verified": true,
+      "deliveryBytes": 28784,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581927/wazemtech/orvane/3e851263c17_9a8cb2d72199a3e7f92734f80cfbc612_service-image-side-3-4ecb118bb122.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4.avif": {
+      "source": "/assets/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4.avif",
+      "spellings": [
+        "/assets/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4.avif"
+      ],
+      "checksum": "c4416980ce55bfbf141bab5806cc1de410fb792828511135819afa18de1cfe9c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4-c4416980ce55",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581927/wazemtech/orvane/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4-c4416980ce55.avif",
+      "bytes": 30317,
+      "width": 1012,
+      "height": 542,
+      "version": 1792581927,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581927/wazemtech/orvane/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4-c4416980ce55.avif",
+      "verified": true,
+      "deliveryBytes": 30317,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581927/wazemtech/orvane/86e48a3929-6a86c0cc21b64fd77f74184b_service-image-side-4-c4416980ce55.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/6edc5179a3-6a8688c5cb652281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2.avif": {
+      "source": "/assets/6edc5179a3-6a8688c5cb652281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2.avif",
+      "spellings": [
+        "/assets/6edc5179a3-6a8688c5cb652281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2.avif"
+      ],
+      "checksum": "4155ec802eceb94fdd5a7de99c8b53b4f7b50196cc2850455b0f7520e64ebfc4",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2-4155ec802ece",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581927/wazemtech/orvane/281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2-4155ec802ece.avif",
+      "bytes": 38317,
+      "width": 1012,
+      "height": 542,
+      "version": 1792581927,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581927/wazemtech/orvane/281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2-4155ec802ece.avif",
+      "verified": true,
+      "deliveryBytes": 38317,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581927/wazemtech/orvane/281bbe67346_8fb5551e846871bbbd96c4cb27396528_service-image-side-2-4155ec802ece.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/5bfdc38339-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_mp4.mp4": {
+      "source": "/assets/5bfdc38339-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_mp4.mp4",
+      "spellings": [
+        "/assets/5bfdc38339-6a6c2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_mp4.mp4"
+      ],
+      "checksum": "3bde36bc303b3f7b3fbe03d0b1f853619a9e17956cd43d07ae36635c7fa9c26c",
+      "resourceType": "video",
+      "extension": ".mp4",
+      "publicId": "wazemtech/orvane/2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_mp4-3bde36bc303b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/video/upload/v1792581927/wazemtech/orvane/2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_mp4-3bde36bc303b.mp4",
+      "bytes": 20721729,
+      "width": 1280,
+      "height": 720,
+      "version": 1792581927,
+      "url": "https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581927/wazemtech/orvane/2b8f2c2c7e64e01bc1d6-6a867ddaab7173ba4c5ecac4_compressed_30mb_mp4-3bde36bc303b.mp4",
+      "verified": true,
+      "deliveryBytes": 12198641,
+      "contentType": "video/mp4;codecs=avc1"
+    },
+    "/assets/2c720b087f-6a7bf35a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2.avif": {
+      "source": "/assets/2c720b087f-6a7bf35a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2.avif",
+      "spellings": [
+        "/assets/2c720b087f-6a7bf35a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2.avif"
+      ],
+      "checksum": "a2057dd940e2f42dfa2008c35093536635cd80a9b9b2878b0c8b58a91025d4c8",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2-a2057dd940e2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581928/wazemtech/orvane/a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2-a2057dd940e2.avif",
+      "bytes": 98503,
+      "width": 1306,
+      "height": 1084,
+      "version": 1792581928,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581928/wazemtech/orvane/a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2-a2057dd940e2.avif",
+      "verified": true,
+      "deliveryBytes": 98503,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581928/wazemtech/orvane/a66c2836329bdcb70_1cbcc4b9fffe0e3ccbe15869e0f36a2d_slider-image-2-a2057dd940e2.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/cfd03c7464-6a7afd790056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1.avif": {
+      "source": "/assets/cfd03c7464-6a7afd790056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1.avif",
+      "spellings": [
+        "/assets/cfd03c7464-6a7afd790056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1.avif"
+      ],
+      "checksum": "12a78ce00a306d4b0c328a1e6d649d259a49b0c1549ef3cce37f5cbcf9c61e86",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/90056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1-12a78ce00a30",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581928/wazemtech/orvane/90056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1-12a78ce00a30.avif",
+      "bytes": 43114,
+      "width": 1306,
+      "height": 1084,
+      "version": 1792581928,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581928/wazemtech/orvane/90056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1-12a78ce00a30.avif",
+      "verified": true,
+      "deliveryBytes": 43114,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581928/wazemtech/orvane/90056c5bab93dd2d6_fe723269a7b19f69edf6cff2cf736d36_slider-image-1-12a78ce00a30.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/221e31e271-6a86c41eae8635c0cda47718_slider-image-03.avif": {
+      "source": "/assets/221e31e271-6a86c41eae8635c0cda47718_slider-image-03.avif",
+      "spellings": [
+        "/assets/221e31e271-6a86c41eae8635c0cda47718_slider-image-03.avif"
+      ],
+      "checksum": "c40c2658dfb26fc77e064268c6688d01792685bea559996b127f199730d256d7",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/221e31e271-6a86c41eae8635c0cda47718_slider-image-03-c40c2658dfb2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581929/wazemtech/orvane/221e31e271-6a86c41eae8635c0cda47718_slider-image-03-c40c2658dfb2.avif",
+      "bytes": 44004,
+      "width": 1306,
+      "height": 1084,
+      "version": 1792581929,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581929/wazemtech/orvane/221e31e271-6a86c41eae8635c0cda47718_slider-image-03-c40c2658dfb2.avif",
+      "verified": true,
+      "deliveryBytes": 44004,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581929/wazemtech/orvane/221e31e271-6a86c41eae8635c0cda47718_slider-image-03-c40c2658dfb2.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1172dac5a6-6a75971992c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5.avif": {
+      "source": "/assets/1172dac5a6-6a75971992c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5.avif",
+      "spellings": [
+        "/assets/1172dac5a6-6a75971992c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5.avif"
+      ],
+      "checksum": "00997ff06863375d521ea2610dd38c8e1a6cfd40f23ab608c36f440c68a02957",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/92c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5-00997ff06863",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581930/wazemtech/orvane/92c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5-00997ff06863.avif",
+      "bytes": 38262,
+      "width": 1536,
+      "height": 1640,
+      "version": 1792581930,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581930/wazemtech/orvane/92c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5-00997ff06863.avif",
+      "verified": true,
+      "deliveryBytes": 38262,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581930/wazemtech/orvane/92c8dfa2fb398dce_8d98d8256bea6f2fd0c24b2e637e816a_service-image-5-00997ff06863.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6.avif": {
+      "source": "/assets/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6.avif",
+      "spellings": [
+        "/assets/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6.avif"
+      ],
+      "checksum": "8d4e9e8a009c5ce3ccca02a460f22c7c261f2068440eb0c941bba2360ca78bc4",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6-8d4e9e8a009c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581930/wazemtech/orvane/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6-8d4e9e8a009c.avif",
+      "bytes": 88558,
+      "width": 1536,
+      "height": 1640,
+      "version": 1792581930,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581930/wazemtech/orvane/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6-8d4e9e8a009c.avif",
+      "verified": true,
+      "deliveryBytes": 88558,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581930/wazemtech/orvane/e79f80202f-6a86cf0328389f4e09c1b457_service-image-6-8d4e9e8a009c.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/b5a451d202-6a759719d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4.avif": {
+      "source": "/assets/b5a451d202-6a759719d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4.avif",
+      "spellings": [
+        "/assets/b5a451d202-6a759719d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4.avif"
+      ],
+      "checksum": "1bda125a566f6f19aa3c1331c1f1337aea22b1f008ef8786487023d5a73d6986",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4-1bda125a566f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581932/wazemtech/orvane/d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4-1bda125a566f.avif",
+      "bytes": 74129,
+      "width": 1536,
+      "height": 1640,
+      "version": 1792581932,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581932/wazemtech/orvane/d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4-1bda125a566f.avif",
+      "verified": true,
+      "deliveryBytes": 74129,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581932/wazemtech/orvane/d7ab01de0e2b1fe8_b766587ed686b181c201594543648c78_service-image-4-1bda125a566f.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/debc1b23c1-6a759719aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1.avif": {
+      "source": "/assets/debc1b23c1-6a759719aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1.avif",
+      "spellings": [
+        "/assets/debc1b23c1-6a759719aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1.avif"
+      ],
+      "checksum": "75bd4e0061e3e4bbaa3800e1c980912a77f6e0b7e5e6e57893a1893c3237cd32",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1-75bd4e0061e3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581932/wazemtech/orvane/aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1-75bd4e0061e3.avif",
+      "bytes": 124455,
+      "width": 1536,
+      "height": 1640,
+      "version": 1792581932,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581932/wazemtech/orvane/aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1-75bd4e0061e3.avif",
+      "verified": true,
+      "deliveryBytes": 124455,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581932/wazemtech/orvane/aad25c81acbbaf58_6643070242dac3b85de4f754f02c1188_service-image-1-75bd4e0061e3.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/b0d750a103-6a7597195b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2.avif": {
+      "source": "/assets/b0d750a103-6a7597195b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2.avif",
+      "spellings": [
+        "/assets/b0d750a103-6a7597195b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2.avif"
+      ],
+      "checksum": "d7be2ad2686b62c39ddaf33ee46b3f946be0fa90544654ff0d3bc77116cb9f6b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/5b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2-d7be2ad2686b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581932/wazemtech/orvane/5b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2-d7be2ad2686b.avif",
+      "bytes": 99543,
+      "width": 1536,
+      "height": 1640,
+      "version": 1792581932,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581932/wazemtech/orvane/5b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2-d7be2ad2686b.avif",
+      "verified": true,
+      "deliveryBytes": 99543,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581932/wazemtech/orvane/5b2fc427669c3ba2_38a063858521a88f692e6ac769d5eae8_service-image-2-d7be2ad2686b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/6c72742bbf-6a70593da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build.avif": {
+      "source": "/assets/6c72742bbf-6a70593da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build.avif",
+      "spellings": [
+        "/assets/6c72742bbf-6a70593da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build.avif"
+      ],
+      "checksum": "78035e65a97e5259fee5846d287fe15c7137cbcaf044146902198720db34c4e2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build-78035e65a97e",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581934/wazemtech/orvane/da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build-78035e65a97e.avif",
+      "bytes": 113386,
+      "width": 1920,
+      "height": 1000,
+      "version": 1792581934,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581934/wazemtech/orvane/da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build-78035e65a97e.avif",
+      "verified": true,
+      "deliveryBytes": 113386,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581934/wazemtech/orvane/da1ff6f59ec9df95a_172075873ee5c0ef3d2183c0583ead99_home-one-build-78035e65a97e.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/6b3d2141c5-6a86a90f532dd59887500659_showcase-icon.svg": {
+      "source": "/assets/6b3d2141c5-6a86a90f532dd59887500659_showcase-icon.svg",
+      "spellings": [
+        "/assets/6b3d2141c5-6a86a90f532dd59887500659_showcase-icon.svg"
+      ],
+      "checksum": "8d20986ca5d193cd819677234c0032fa7e50157cf0eed74df732b7cfca715e23",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/6b3d2141c5-6a86a90f532dd59887500659_showcase-icon-8d20986ca5d1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581934/wazemtech/orvane/6b3d2141c5-6a86a90f532dd59887500659_showcase-icon-8d20986ca5d1.svg",
+      "bytes": 22027,
+      "width": 43,
+      "height": 41,
+      "version": 1792581934,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581934/wazemtech/orvane/6b3d2141c5-6a86a90f532dd59887500659_showcase-icon-8d20986ca5d1.svg",
+      "verified": true,
+      "deliveryBytes": 22027,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small.avif": {
+      "source": "/assets/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small.avif",
+      "spellings": [
+        "/assets/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small.avif"
+      ],
+      "checksum": "8cb24b589c49ae0a51b06d8ce374796b82727c693bcb7af10725a74ab28986cd",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small-8cb24b589c49",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581935/wazemtech/orvane/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small-8cb24b589c49.avif",
+      "bytes": 22918,
+      "width": 596,
+      "height": 418,
+      "version": 1792581935,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581935/wazemtech/orvane/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small-8cb24b589c49.avif",
+      "verified": true,
+      "deliveryBytes": 22918,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581935/wazemtech/orvane/be5523234a-6a86aab45e0e062a7e868873_showcase-image-small-8cb24b589c49.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1.avif": {
+      "source": "/assets/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1.avif",
+      "spellings": [
+        "/assets/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1.avif"
+      ],
+      "checksum": "a470a6e46e3d805ba365580aafc7d1f954429df96b1a74f53d12b3005a435d45",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1-a470a6e46e3d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581935/wazemtech/orvane/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1-a470a6e46e3d.avif",
+      "bytes": 105413,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581935,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581935/wazemtech/orvane/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1-a470a6e46e3d.avif",
+      "verified": true,
+      "deliveryBytes": 105413,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581935/wazemtech/orvane/1aa5779895-6a95586d2238565b014f1b62_portfolio-thumbnail-1-a470a6e46e3d.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2.avif": {
+      "source": "/assets/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2.avif",
+      "spellings": [
+        "/assets/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2.avif"
+      ],
+      "checksum": "028bd08cc8ad81395467dce19fe9e2ff04302b2882d3e25ceac2b5f383dc6bf1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2-028bd08cc8ad",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581936/wazemtech/orvane/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2-028bd08cc8ad.avif",
+      "bytes": 95814,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581936,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581936/wazemtech/orvane/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2-028bd08cc8ad.avif",
+      "verified": true,
+      "deliveryBytes": 95814,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581936/wazemtech/orvane/f0ac42bf7e-6a95588486ac73c017749527_portfolio-thumbnail-2-028bd08cc8ad.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/89f9351246-6a955a8c50765dc39336b080_portfolio-thumbnail-5.avif": {
+      "source": "/assets/89f9351246-6a955a8c50765dc39336b080_portfolio-thumbnail-5.avif",
+      "spellings": [
+        "/assets/89f9351246-6a955a8c50765dc39336b080_portfolio-thumbnail-5.avif"
+      ],
+      "checksum": "f4750514f03953bb828f3d208213a646ac582d68ae09a3ce23c75666d006a980",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/89f9351246-6a955a8c50765dc39336b080_portfolio-thumbnail-5-f4750514f039",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581937/wazemtech/orvane/89f9351246-6a955a8c50765dc39336b080_portfolio-thumbnail-5-f4750514f039.avif",
+      "bytes": 32737,
+      "width": 768,
+      "height": 576,
+      "version": 1792581937,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581937/wazemtech/orvane/89f9351246-6a955a8c50765dc39336b080_portfolio-thumbnail-5-f4750514f039.avif",
+      "verified": true,
+      "deliveryBytes": 32238,
+      "contentType": "image/webp"
+    },
+    "/assets/a6e0dd2b58-6a8439ccf1f11784bb9f8b36_mordern-arrow.svg": {
+      "source": "/assets/a6e0dd2b58-6a8439ccf1f11784bb9f8b36_mordern-arrow.svg",
+      "spellings": [
+        "/assets/a6e0dd2b58-6a8439ccf1f11784bb9f8b36_mordern-arrow.svg"
+      ],
+      "checksum": "d556d6b206c1e7e3722297602d43a1ff93b305439d07b14c8fd79c04c9fa95a4",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/a6e0dd2b58-6a8439ccf1f11784bb9f8b36_mordern-arrow-d556d6b206c1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581937/wazemtech/orvane/a6e0dd2b58-6a8439ccf1f11784bb9f8b36_mordern-arrow-d556d6b206c1.svg",
+      "bytes": 1145,
+      "width": 155,
+      "height": 119,
+      "version": 1792581937,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581937/wazemtech/orvane/a6e0dd2b58-6a8439ccf1f11784bb9f8b36_mordern-arrow-d556d6b206c1.svg",
+      "verified": true,
+      "deliveryBytes": 1145,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8.avif": {
+      "source": "/assets/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8.avif",
+      "spellings": [
+        "/assets/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8.avif"
+      ],
+      "checksum": "37afe0d627decb7bad56aa8fed555878f4d42d156767c8af6d80d75c8de7269f",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8-37afe0d627de",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581938/wazemtech/orvane/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8-37afe0d627de.avif",
+      "bytes": 87043,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581938,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581938/wazemtech/orvane/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8-37afe0d627de.avif",
+      "verified": true,
+      "deliveryBytes": 87043,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581938/wazemtech/orvane/24c5eb1e30-6a95592de364f9c484dd4a41_portfolio-thumbnail-8-37afe0d627de.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/ffa5205f3a-6a859d37faceefecb1c76326_author-testimonial.avif": {
+      "source": "/assets/ffa5205f3a-6a859d37faceefecb1c76326_author-testimonial.avif",
+      "spellings": [
+        "/assets/ffa5205f3a-6a859d37faceefecb1c76326_author-testimonial.avif"
+      ],
+      "checksum": "ac2de834b7ba131f8409a550ba1a279d1ed1d43417265488a36d0a74dd292e39",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/ffa5205f3a-6a859d37faceefecb1c76326_author-testimonial-ac2de834b7ba",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581938/wazemtech/orvane/ffa5205f3a-6a859d37faceefecb1c76326_author-testimonial-ac2de834b7ba.avif",
+      "bytes": 4014,
+      "width": 186,
+      "height": 192,
+      "version": 1792581938,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581938/wazemtech/orvane/ffa5205f3a-6a859d37faceefecb1c76326_author-testimonial-ac2de834b7ba.avif",
+      "verified": true,
+      "deliveryBytes": 3522,
+      "contentType": "image/webp"
+    },
+    "/assets/03d2b1fc55-6a859dc05f2354d37658ac62_author-testimonial-icon.svg": {
+      "source": "/assets/03d2b1fc55-6a859dc05f2354d37658ac62_author-testimonial-icon.svg",
+      "spellings": [
+        "/assets/03d2b1fc55-6a859dc05f2354d37658ac62_author-testimonial-icon.svg"
+      ],
+      "checksum": "115c9c2695584dd34da3cd49b1ec33089f81670f02107123ade459f99d78c10f",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/03d2b1fc55-6a859dc05f2354d37658ac62_author-testimonial-icon-115c9c269558",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581939/wazemtech/orvane/03d2b1fc55-6a859dc05f2354d37658ac62_author-testimonial-icon-115c9c269558.svg",
+      "bytes": 341,
+      "width": 32,
+      "height": 30,
+      "version": 1792581939,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581939/wazemtech/orvane/03d2b1fc55-6a859dc05f2354d37658ac62_author-testimonial-icon-115c9c269558.svg",
+      "verified": true,
+      "deliveryBytes": 341,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/971f67b940-6a9525adfdddc19fa671be0a_pause-icon.svg": {
+      "source": "/assets/971f67b940-6a9525adfdddc19fa671be0a_pause-icon.svg",
+      "spellings": [
+        "/assets/971f67b940-6a9525adfdddc19fa671be0a_pause-icon.svg"
+      ],
+      "checksum": "35d816c4464c2209b4f5a4ccfd22b129ab7ab2e4d6bec51b7f359add964f8ff4",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/971f67b940-6a9525adfdddc19fa671be0a_pause-icon-35d816c4464c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581940/wazemtech/orvane/971f67b940-6a9525adfdddc19fa671be0a_pause-icon-35d816c4464c.svg",
+      "bytes": 223,
+      "width": 6,
+      "height": 8,
+      "version": 1792581940,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581940/wazemtech/orvane/971f67b940-6a9525adfdddc19fa671be0a_pause-icon-35d816c4464c.svg",
+      "verified": true,
+      "deliveryBytes": 223,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/3e15d8a9d5-6a9526a8be1c96a5dd12cca9_play-icon.svg": {
+      "source": "/assets/3e15d8a9d5-6a9526a8be1c96a5dd12cca9_play-icon.svg",
+      "spellings": [
+        "/assets/3e15d8a9d5-6a9526a8be1c96a5dd12cca9_play-icon.svg"
+      ],
+      "checksum": "1972b693289dc8b03e103720fb3653b5eb258c296543f33da41503846c1113fe",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/3e15d8a9d5-6a9526a8be1c96a5dd12cca9_play-icon-1972b693289d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581940/wazemtech/orvane/3e15d8a9d5-6a9526a8be1c96a5dd12cca9_play-icon-1972b693289d.svg",
+      "bytes": 148,
+      "width": 6,
+      "height": 8,
+      "version": 1792581940,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581940/wazemtech/orvane/3e15d8a9d5-6a9526a8be1c96a5dd12cca9_play-icon-1972b693289d.svg",
+      "verified": true,
+      "deliveryBytes": 148,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/72eee645a2-6a8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10.avif": {
+      "source": "/assets/72eee645a2-6a8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10.avif",
+      "spellings": [
+        "/assets/72eee645a2-6a8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10.avif"
+      ],
+      "checksum": "26ef78544eba8a27d761de4aef39f9244eae2ea3133d7fbae25ecbe6f14b822d",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10-26ef78544eba",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581941/wazemtech/orvane/8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10-26ef78544eba.avif",
+      "bytes": 4039,
+      "width": 316,
+      "height": 316,
+      "version": 1792581941,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581941/wazemtech/orvane/8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10-26ef78544eba.avif",
+      "verified": true,
+      "deliveryBytes": 4039,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581941/wazemtech/orvane/8ff9b4294ee17b5de2154d_0b4e00eb9fa80f2bff5db7f0c1221d60_author-10-26ef78544eba.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/080d82602c-6a8bd374b7b2acbbad9955c1_about-hero-image-one.avif": {
+      "source": "/assets/080d82602c-6a8bd374b7b2acbbad9955c1_about-hero-image-one.avif",
+      "spellings": [
+        "/assets/080d82602c-6a8bd374b7b2acbbad9955c1_about-hero-image-one.avif"
+      ],
+      "checksum": "0c3454eea775ec529bdb0d24fb284077be9a11492fbc91d13eaaa41b294b1f3c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/080d82602c-6a8bd374b7b2acbbad9955c1_about-hero-image-one-0c3454eea775",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581942/wazemtech/orvane/080d82602c-6a8bd374b7b2acbbad9955c1_about-hero-image-one-0c3454eea775.avif",
+      "bytes": 68174,
+      "width": 3840,
+      "height": 2000,
+      "version": 1792581942,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581942/wazemtech/orvane/080d82602c-6a8bd374b7b2acbbad9955c1_about-hero-image-one-0c3454eea775.avif",
+      "verified": true,
+      "deliveryBytes": 67952,
+      "contentType": "image/webp"
+    },
+    "/assets/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image.avif": {
+      "source": "/assets/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image.avif",
+      "spellings": [
+        "/assets/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image.avif"
+      ],
+      "checksum": "96eabf290fd2cbf3b7ce436db842bd83cdf67df671ea7dd040dc0ea5c956b42d",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image-96eabf290fd2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581942/wazemtech/orvane/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image-96eabf290fd2.avif",
+      "bytes": 7319,
+      "width": 692,
+      "height": 408,
+      "version": 1792581942,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581942/wazemtech/orvane/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image-96eabf290fd2.avif",
+      "verified": true,
+      "deliveryBytes": 7319,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581942/wazemtech/orvane/ad2083655f-6a8bd3d903656a0025e49b4f_about-hero-card-image-96eabf290fd2.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two.avif": {
+      "source": "/assets/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two.avif",
+      "spellings": [
+        "/assets/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two.avif"
+      ],
+      "checksum": "8d5e2e50bf7a3dd634cd82ae02ee4c52bd4b8b984ac7c18b19baf8d27bb71018",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two-8d5e2e50bf7a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581942/wazemtech/orvane/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two-8d5e2e50bf7a.avif",
+      "bytes": 66173,
+      "width": 3840,
+      "height": 2000,
+      "version": 1792581942,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581942/wazemtech/orvane/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two-8d5e2e50bf7a.avif",
+      "verified": true,
+      "deliveryBytes": 66173,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581942/wazemtech/orvane/5c00c9b8f8-6a8bd3747eab4bd21b580c75_about-hero-image-two-8d5e2e50bf7a.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2309726eff-6a7951f487400e8bbe61988e_9556123857e98998fb32de4bdecb5605_client-logo-1.svg": {
+      "source": "/assets/2309726eff-6a7951f487400e8bbe61988e_9556123857e98998fb32de4bdecb5605_client-logo-1.svg",
+      "spellings": [
+        "/assets/2309726eff-6a7951f487400e8bbe61988e_9556123857e98998fb32de4bdecb5605_client-logo-1.svg"
+      ],
+      "checksum": "a14c8cdbbfe1a1af1a075f03fed8e3bb5e47b2288e553a82cac9f6fcc39d4c8d",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/f487400e8bbe61988e_9556123857e98998fb32de4bdecb5605_client-logo-1-a14c8cdbbfe1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581943/wazemtech/orvane/f487400e8bbe61988e_9556123857e98998fb32de4bdecb5605_client-logo-1-a14c8cdbbfe1.svg",
+      "bytes": 1478,
+      "width": 130,
+      "height": 29,
+      "version": 1792581943,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581943/wazemtech/orvane/f487400e8bbe61988e_9556123857e98998fb32de4bdecb5605_client-logo-1-a14c8cdbbfe1.svg",
+      "verified": true,
+      "deliveryBytes": 1478,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/ecb52e5a84-6a7951f4412a551d48470ce0_23d833c8eef23cd7237635418da0a0ec_client-logo-2.svg": {
+      "source": "/assets/ecb52e5a84-6a7951f4412a551d48470ce0_23d833c8eef23cd7237635418da0a0ec_client-logo-2.svg",
+      "spellings": [
+        "/assets/ecb52e5a84-6a7951f4412a551d48470ce0_23d833c8eef23cd7237635418da0a0ec_client-logo-2.svg"
+      ],
+      "checksum": "8f26ca80d214737eacfa1e7535494878e530d473f0d6d2a9cd6a6d1b7fb4ec26",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/f4412a551d48470ce0_23d833c8eef23cd7237635418da0a0ec_client-logo-2-8f26ca80d214",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581943/wazemtech/orvane/f4412a551d48470ce0_23d833c8eef23cd7237635418da0a0ec_client-logo-2-8f26ca80d214.svg",
+      "bytes": 12624,
+      "width": 76,
+      "height": 38,
+      "version": 1792581943,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581943/wazemtech/orvane/f4412a551d48470ce0_23d833c8eef23cd7237635418da0a0ec_client-logo-2-8f26ca80d214.svg",
+      "verified": true,
+      "deliveryBytes": 12624,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/5409c227f6-6a7951f4f641989f0a718a72_795e5a4f4425965a04b78aae3a9382c3_client-logo-3.svg": {
+      "source": "/assets/5409c227f6-6a7951f4f641989f0a718a72_795e5a4f4425965a04b78aae3a9382c3_client-logo-3.svg",
+      "spellings": [
+        "/assets/5409c227f6-6a7951f4f641989f0a718a72_795e5a4f4425965a04b78aae3a9382c3_client-logo-3.svg"
+      ],
+      "checksum": "ec084ea214070135812bc38cec54a02caaa6bf673a7369698d90a2260ea159ed",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/f4f641989f0a718a72_795e5a4f4425965a04b78aae3a9382c3_client-logo-3-ec084ea21407",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581944/wazemtech/orvane/f4f641989f0a718a72_795e5a4f4425965a04b78aae3a9382c3_client-logo-3-ec084ea21407.svg",
+      "bytes": 9489,
+      "width": 119,
+      "height": 39,
+      "version": 1792581944,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581944/wazemtech/orvane/f4f641989f0a718a72_795e5a4f4425965a04b78aae3a9382c3_client-logo-3-ec084ea21407.svg",
+      "verified": true,
+      "deliveryBytes": 9489,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/436c1eb5b7-6a7951f43da82c4b99457bea_73eb7cd99d93d5856e55ea8f0ca1fa64_client-logo-6.svg": {
+      "source": "/assets/436c1eb5b7-6a7951f43da82c4b99457bea_73eb7cd99d93d5856e55ea8f0ca1fa64_client-logo-6.svg",
+      "spellings": [
+        "/assets/436c1eb5b7-6a7951f43da82c4b99457bea_73eb7cd99d93d5856e55ea8f0ca1fa64_client-logo-6.svg"
+      ],
+      "checksum": "193bae71a66f12f40c3fe0cbb0cead9d571d9c3d0f320e591894df8807779634",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/f43da82c4b99457bea_73eb7cd99d93d5856e55ea8f0ca1fa64_client-logo-6-193bae71a66f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581944/wazemtech/orvane/f43da82c4b99457bea_73eb7cd99d93d5856e55ea8f0ca1fa64_client-logo-6-193bae71a66f.svg",
+      "bytes": 21429,
+      "width": 118,
+      "height": 30,
+      "version": 1792581944,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581944/wazemtech/orvane/f43da82c4b99457bea_73eb7cd99d93d5856e55ea8f0ca1fa64_client-logo-6-193bae71a66f.svg",
+      "verified": true,
+      "deliveryBytes": 21429,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/ee16ac25f9-6a708abadc811fd00e37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image.avif": {
+      "source": "/assets/ee16ac25f9-6a708abadc811fd00e37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image.avif",
+      "spellings": [
+        "/assets/ee16ac25f9-6a708abadc811fd00e37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image.avif"
+      ],
+      "checksum": "12358a2516aa96016afd13e052507fcf26061788b711fa0ab6cf65467c0390be",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image-12358a2516aa",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581946/wazemtech/orvane/37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image-12358a2516aa.avif",
+      "bytes": 115793,
+      "width": 1536,
+      "height": 1640,
+      "version": 1792581946,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581946/wazemtech/orvane/37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image-12358a2516aa.avif",
+      "verified": true,
+      "deliveryBytes": 115793,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581946/wazemtech/orvane/37f92e_d15117aea7a8293d640526cadf8b640d_home-two-statistics-image-12358a2516aa.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/60959ab8ec-6a7951f476d983e687f1ea9f_871d4c09e4ccff0bdb31785f93bda9f0_client-logo-5.svg": {
+      "source": "/assets/60959ab8ec-6a7951f476d983e687f1ea9f_871d4c09e4ccff0bdb31785f93bda9f0_client-logo-5.svg",
+      "spellings": [
+        "/assets/60959ab8ec-6a7951f476d983e687f1ea9f_871d4c09e4ccff0bdb31785f93bda9f0_client-logo-5.svg"
+      ],
+      "checksum": "49517d4030e2aae00868274db2d0ed6b371c6e91345a6a2f44555ec50d7d4fdb",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/f476d983e687f1ea9f_871d4c09e4ccff0bdb31785f93bda9f0_client-logo-5-49517d4030e2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581945/wazemtech/orvane/f476d983e687f1ea9f_871d4c09e4ccff0bdb31785f93bda9f0_client-logo-5-49517d4030e2.svg",
+      "bytes": 608,
+      "width": 58,
+      "height": 51,
+      "version": 1792581945,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581945/wazemtech/orvane/f476d983e687f1ea9f_871d4c09e4ccff0bdb31785f93bda9f0_client-logo-5-49517d4030e2.svg",
+      "verified": true,
+      "deliveryBytes": 608,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1.avif": {
+      "source": "/assets/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1.avif",
+      "spellings": [
+        "/assets/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1.avif"
+      ],
+      "checksum": "a87df5075ca6a0d14d14d5a74dad57e149b059139e9427d69777851d882c0607",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1-a87df5075ca6",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581946/wazemtech/orvane/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1-a87df5075ca6.avif",
+      "bytes": 16046,
+      "width": 480,
+      "height": 507,
+      "version": 1792581946,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581946/wazemtech/orvane/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1-a87df5075ca6.avif",
+      "verified": true,
+      "deliveryBytes": 16046,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581946/wazemtech/orvane/b2ed040b3b-6a8bd6cd7e644cd54a93d6be_achivement-image1-a87df5075ca6.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3.avif": {
+      "source": "/assets/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3.avif",
+      "spellings": [
+        "/assets/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3.avif"
+      ],
+      "checksum": "e7d88159646dfc1cce8aeaddf99eb552deca7b104d56a702613732f16b2c1caf",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3-e7d88159646d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581947/wazemtech/orvane/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3-e7d88159646d.avif",
+      "bytes": 16388,
+      "width": 480,
+      "height": 507,
+      "version": 1792581947,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581947/wazemtech/orvane/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3-e7d88159646d.avif",
+      "verified": true,
+      "deliveryBytes": 16388,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581947/wazemtech/orvane/2b1c6e6e3f-6a8bd97dca5a4e9c5f12a946_achivement-image3-e7d88159646d.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image.avif": {
+      "source": "/assets/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image.avif",
+      "spellings": [
+        "/assets/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image.avif"
+      ],
+      "checksum": "bfa3141f38e1618fc5561b69b57b14ec51eef7f161f5f63cac32de3dc234263d",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image-bfa3141f38e1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581947/wazemtech/orvane/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image-bfa3141f38e1.avif",
+      "bytes": 25843,
+      "width": 1536,
+      "height": 1620,
+      "version": 1792581947,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581947/wazemtech/orvane/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image-bfa3141f38e1.avif",
+      "verified": true,
+      "deliveryBytes": 25843,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581947/wazemtech/orvane/6ca1a18f1b-6a8bd8a5b31c21b445ba5432_achivement-background-image-bfa3141f38e1.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2.avif": {
+      "source": "/assets/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2.avif",
+      "spellings": [
+        "/assets/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2.avif"
+      ],
+      "checksum": "2c9a820fdcebbf8e180389d05a9243c3107bf6ee5341d89ecf8973b17d22c093",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2-2c9a820fdceb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581947/wazemtech/orvane/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2-2c9a820fdceb.avif",
+      "bytes": 7655,
+      "width": 480,
+      "height": 507,
+      "version": 1792581947,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581947/wazemtech/orvane/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2-2c9a820fdceb.avif",
+      "verified": true,
+      "deliveryBytes": 7655,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581947/wazemtech/orvane/a320a55bf9-6a8bd97d3893a257dac4df55_achivement-image2-2c9a820fdceb.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2b45ec3a7d-6a8bd8a51f1b9187ce70c43f_achivement-round-image.avif": {
+      "source": "/assets/2b45ec3a7d-6a8bd8a51f1b9187ce70c43f_achivement-round-image.avif",
+      "spellings": [
+        "/assets/2b45ec3a7d-6a8bd8a51f1b9187ce70c43f_achivement-round-image.avif"
+      ],
+      "checksum": "b21d0d423ff252814ebdc9c1bc66af2c6828d1c163124df97811b081488bcbd6",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/2b45ec3a7d-6a8bd8a51f1b9187ce70c43f_achivement-round-image-b21d0d423ff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581948/wazemtech/orvane/2b45ec3a7d-6a8bd8a51f1b9187ce70c43f_achivement-round-image-b21d0d423ff2.avif",
+      "bytes": 1134,
+      "width": 116,
+      "height": 116,
+      "version": 1792581948,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581948/wazemtech/orvane/2b45ec3a7d-6a8bd8a51f1b9187ce70c43f_achivement-round-image-b21d0d423ff2.avif",
+      "verified": true,
+      "deliveryBytes": 836,
+      "contentType": "image/webp"
+    },
+    "/assets/3a46050a7a-6a708aba7c6dd0cbdb1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1.avif": {
+      "source": "/assets/3a46050a7a-6a708aba7c6dd0cbdb1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1.avif",
+      "spellings": [
+        "/assets/3a46050a7a-6a708aba7c6dd0cbdb1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1.avif"
+      ],
+      "checksum": "71a68269be470478a4483892b17358ce30cdabafe985c8aac300256ec5f0f6d4",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/b1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1-71a68269be47",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581948/wazemtech/orvane/b1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1-71a68269be47.avif",
+      "bytes": 68593,
+      "width": 1188,
+      "height": 2000,
+      "version": 1792581948,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581948/wazemtech/orvane/b1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1-71a68269be47.avif",
+      "verified": true,
+      "deliveryBytes": 68593,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581948/wazemtech/orvane/b1eafd5_02311c7b0599f1f5216e2aa5e81539dc_home-two-gallery-image-1-71a68269be47.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/be1a1f0cf8-6a708abb6603b394b421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2.avif": {
+      "source": "/assets/be1a1f0cf8-6a708abb6603b394b421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2.avif",
+      "spellings": [
+        "/assets/be1a1f0cf8-6a708abb6603b394b421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2.avif"
+      ],
+      "checksum": "7bec31bd3e9a867082b410c2a83a1acfb33a32783a1bd7d5bc69dafe505e94c2",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2-7bec31bd3e9a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581949/wazemtech/orvane/421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2-7bec31bd3e9a.avif",
+      "bytes": 66891,
+      "width": 1362,
+      "height": 2000,
+      "version": 1792581949,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581949/wazemtech/orvane/421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2-7bec31bd3e9a.avif",
+      "verified": true,
+      "deliveryBytes": 66891,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581949/wazemtech/orvane/421e90c_81c6c47beb54b88bdf5ce00deaacd236_home-two-gallery-image-2-7bec31bd3e9a.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/4ca53f4d51-6a708aba10410501f5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3.avif": {
+      "source": "/assets/4ca53f4d51-6a708aba10410501f5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3.avif",
+      "spellings": [
+        "/assets/4ca53f4d51-6a708aba10410501f5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3.avif"
+      ],
+      "checksum": "6e422a572a649267a0e2c47c66d4b4fa2fdd7f310e55f1f6ad89d37d1d376034",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3-6e422a572a64",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581949/wazemtech/orvane/5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3-6e422a572a64.avif",
+      "bytes": 138344,
+      "width": 1290,
+      "height": 2000,
+      "version": 1792581949,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581949/wazemtech/orvane/5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3-6e422a572a64.avif",
+      "verified": true,
+      "deliveryBytes": 138344,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581949/wazemtech/orvane/5f39440_104084fd2da7c6ec0068a2c16a2c726c_home-two-gallery-image-3-6e422a572a64.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5.avif": {
+      "source": "/assets/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5.avif",
+      "spellings": [
+        "/assets/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5.avif"
+      ],
+      "checksum": "9412ec39e73fe6b22379264bddd090a402d9cd103cb623360cbc9e477240f2ec",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5-9412ec39e73f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581950/wazemtech/orvane/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5-9412ec39e73f.avif",
+      "bytes": 8036,
+      "width": 398,
+      "height": 256,
+      "version": 1792581950,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581950/wazemtech/orvane/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5-9412ec39e73f.avif",
+      "verified": true,
+      "deliveryBytes": 8036,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581950/wazemtech/orvane/0a8ac4ba99-6a9529a948d36b31105864ce_location-image-5-9412ec39e73f.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a7fc010574-6a7aa7249c22b49105c4f659_48dba1981df0201a50686d9f9ec35565_map.svg": {
+      "source": "/assets/a7fc010574-6a7aa7249c22b49105c4f659_48dba1981df0201a50686d9f9ec35565_map.svg",
+      "spellings": [
+        "/assets/a7fc010574-6a7aa7249c22b49105c4f659_48dba1981df0201a50686d9f9ec35565_map.svg"
+      ],
+      "checksum": "e10e4d75c60072be2511925bc3ac5bd0657db1de45e4cf51f9c371bb47a7d1af",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/574-6a7aa7249c22b49105c4f659_48dba1981df0201a50686d9f9ec35565_map-e10e4d75c600",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581949/wazemtech/orvane/574-6a7aa7249c22b49105c4f659_48dba1981df0201a50686d9f9ec35565_map-e10e4d75c600.svg",
+      "bytes": 33975,
+      "width": 1032,
+      "height": 891,
+      "version": 1792581949,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581949/wazemtech/orvane/574-6a7aa7249c22b49105c4f659_48dba1981df0201a50686d9f9ec35565_map-e10e4d75c600.svg",
+      "verified": true,
+      "deliveryBytes": 33975,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2.avif": {
+      "source": "/assets/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2.avif",
+      "spellings": [
+        "/assets/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2.avif"
+      ],
+      "checksum": "23ca4c7170ae19e147f96d41f3ee491b904704a0cdce4da8e8a05177d3154da4",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2-23ca4c7170ae",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581951/wazemtech/orvane/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2-23ca4c7170ae.avif",
+      "bytes": 7196,
+      "width": 398,
+      "height": 256,
+      "version": 1792581951,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581951/wazemtech/orvane/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2-23ca4c7170ae.avif",
+      "verified": true,
+      "deliveryBytes": 7196,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581951/wazemtech/orvane/502fd80f42-6a9529a991c0f7146cdcb448_location-image-2-23ca4c7170ae.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/491ac4a1b3-6a7aaa266aa0deee0adb73f2_19f3fefc8a6764b9ebf52985cb7f5ce0_map-pointer.svg": {
+      "source": "/assets/491ac4a1b3-6a7aaa266aa0deee0adb73f2_19f3fefc8a6764b9ebf52985cb7f5ce0_map-pointer.svg",
+      "spellings": [
+        "/assets/491ac4a1b3-6a7aaa266aa0deee0adb73f2_19f3fefc8a6764b9ebf52985cb7f5ce0_map-pointer.svg"
+      ],
+      "checksum": "fba388f40bf909919ee801545d95e95014ced006d2082357d36d520f9d4e70d7",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/aa266aa0deee0adb73f2_19f3fefc8a6764b9ebf52985cb7f5ce0_map-pointer-fba388f40bf9",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581950/wazemtech/orvane/aa266aa0deee0adb73f2_19f3fefc8a6764b9ebf52985cb7f5ce0_map-pointer-fba388f40bf9.svg",
+      "bytes": 452,
+      "width": 23,
+      "height": 28,
+      "version": 1792581950,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581950/wazemtech/orvane/aa266aa0deee0adb73f2_19f3fefc8a6764b9ebf52985cb7f5ce0_map-pointer-fba388f40bf9.svg",
+      "verified": true,
+      "deliveryBytes": 452,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4.avif": {
+      "source": "/assets/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4.avif",
+      "spellings": [
+        "/assets/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4.avif"
+      ],
+      "checksum": "48a76d4988ebb3fc321bcb954480828845ae9d997a1fb11d78afc927279b822c",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4-48a76d4988eb",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581951/wazemtech/orvane/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4-48a76d4988eb.avif",
+      "bytes": 11290,
+      "width": 398,
+      "height": 256,
+      "version": 1792581951,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581951/wazemtech/orvane/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4-48a76d4988eb.avif",
+      "verified": true,
+      "deliveryBytes": 11290,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581951/wazemtech/orvane/5b6f1902bb-6a9529a97e99d02e2e25e120_location-image-4-48a76d4988eb.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1.avif": {
+      "source": "/assets/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1.avif",
+      "spellings": [
+        "/assets/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1.avif"
+      ],
+      "checksum": "a7d0f6a8fa12bfd86ea0b8b02d52eac901940ae8e0c4a625eeabb2d9d57fb8ab",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1-a7d0f6a8fa12",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581952/wazemtech/orvane/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1-a7d0f6a8fa12.avif",
+      "bytes": 11296,
+      "width": 398,
+      "height": 256,
+      "version": 1792581952,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581952/wazemtech/orvane/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1-a7d0f6a8fa12.avif",
+      "verified": true,
+      "deliveryBytes": 11296,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581952/wazemtech/orvane/fe990b814b-6a9529a92845e7c9a94bf9b8_location-image-1-a7d0f6a8fa12.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3.avif": {
+      "source": "/assets/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3.avif",
+      "spellings": [
+        "/assets/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3.avif"
+      ],
+      "checksum": "3f92873e76779d9944b2358c3e5d61a1ec2318aa5afec9cabc67480d769a9985",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3-3f92873e7677",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581952/wazemtech/orvane/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3-3f92873e7677.avif",
+      "bytes": 8117,
+      "width": 398,
+      "height": 256,
+      "version": 1792581952,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581952/wazemtech/orvane/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3-3f92873e7677.avif",
+      "verified": true,
+      "deliveryBytes": 8117,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581952/wazemtech/orvane/85a28c5b73-6a9529a9f6a5ac112f5e54c4_location-image-3-3f92873e7677.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06.avif": {
+      "source": "/assets/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06.avif",
+      "spellings": [
+        "/assets/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06.avif"
+      ],
+      "checksum": "0471b523ec543ed950c00d95119be90808ac0006ddaa7380b68d8c171c2c0219",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06-0471b523ec54",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581953/wazemtech/orvane/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06-0471b523ec54.avif",
+      "bytes": 66169,
+      "width": 1008,
+      "height": 1168,
+      "version": 1792581953,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581953/wazemtech/orvane/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06-0471b523ec54.avif",
+      "verified": true,
+      "deliveryBytes": 66169,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581953/wazemtech/orvane/6a024e2aa0-6a8fce64db28f1e1124afa8b_team-image-small-06-0471b523ec54.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05.avif": {
+      "source": "/assets/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05.avif",
+      "spellings": [
+        "/assets/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05.avif"
+      ],
+      "checksum": "6e57e8b3b587049072011c737eb2ad47b89100d10859c76491f3a37eb554f105",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05-6e57e8b3b587",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581953/wazemtech/orvane/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05-6e57e8b3b587.avif",
+      "bytes": 41967,
+      "width": 1008,
+      "height": 1168,
+      "version": 1792581953,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581953/wazemtech/orvane/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05-6e57e8b3b587.avif",
+      "verified": true,
+      "deliveryBytes": 41967,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581953/wazemtech/orvane/0efdfe0319-6a8fce700ec37c4f7d241112_team-image-small-05-6e57e8b3b587.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03.avif": {
+      "source": "/assets/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03.avif",
+      "spellings": [
+        "/assets/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03.avif"
+      ],
+      "checksum": "92f1f5d97953ac6a66c5edd5b35ebe90ef9580fc3a84c1bd7bdcecba6c0b66a4",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03-92f1f5d97953",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581954/wazemtech/orvane/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03-92f1f5d97953.avif",
+      "bytes": 65945,
+      "width": 1008,
+      "height": 1168,
+      "version": 1792581954,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581954/wazemtech/orvane/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03-92f1f5d97953.avif",
+      "verified": true,
+      "deliveryBytes": 65945,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581954/wazemtech/orvane/f644958829-6a8fce4aa42bf0f579b17bc8_team-image-small-03-92f1f5d97953.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3.avif": {
+      "source": "/assets/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3.avif",
+      "spellings": [
+        "/assets/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3.avif"
+      ],
+      "checksum": "bdf01c3b77f010d51a2f1b1a90b8710654d55677e1c01e42d81ed06bfae49653",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3-bdf01c3b77f0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581955/wazemtech/orvane/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3-bdf01c3b77f0.avif",
+      "bytes": 30216,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581955,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581955/wazemtech/orvane/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3-bdf01c3b77f0.avif",
+      "verified": true,
+      "deliveryBytes": 30216,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581955/wazemtech/orvane/7a21de5303-6a9660a4bc6a8b111e2a42f2_blog-thumbnail-3-bdf01c3b77f0.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04.avif": {
+      "source": "/assets/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04.avif",
+      "spellings": [
+        "/assets/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04.avif"
+      ],
+      "checksum": "ad1d92042b4da3d3350a8b8c2a5b7260035f0ee097c543e6aa1a5e94e661d13d",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04-ad1d92042b4d",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581954/wazemtech/orvane/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04-ad1d92042b4d.avif",
+      "bytes": 57677,
+      "width": 1008,
+      "height": 1168,
+      "version": 1792581954,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581954/wazemtech/orvane/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04-ad1d92042b4d.avif",
+      "verified": true,
+      "deliveryBytes": 57677,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581954/wazemtech/orvane/c34495fd76-6a8fce30ff9e76074c1441d8_team-image-small-04-ad1d92042b4d.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10.avif": {
+      "source": "/assets/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10.avif",
+      "spellings": [
+        "/assets/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10.avif"
+      ],
+      "checksum": "d675bcdf976476665e5921be8553346e6460677d2d6648ba470ef6793f5fefca",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10-d675bcdf9764",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581955/wazemtech/orvane/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10-d675bcdf9764.avif",
+      "bytes": 44863,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581955,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581955/wazemtech/orvane/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10-d675bcdf9764.avif",
+      "verified": true,
+      "deliveryBytes": 44863,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581955/wazemtech/orvane/3f547dec72-6a96600eb8e2387ab07f7aee_blog-thumbnail-10-d675bcdf9764.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2.avif": {
+      "source": "/assets/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2.avif",
+      "spellings": [
+        "/assets/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2.avif"
+      ],
+      "checksum": "2478dc6d71ed4ece61c8fd6a74c5669c7d72c1c4b5e8fee8741306ca77de847e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2-2478dc6d71ed",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581956/wazemtech/orvane/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2-2478dc6d71ed.avif",
+      "bytes": 39215,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581956,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581956/wazemtech/orvane/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2-2478dc6d71ed.avif",
+      "verified": true,
+      "deliveryBytes": 39215,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581956/wazemtech/orvane/40c9bf5207-6a96608f0acd7009c168aca1_blog-thumbnail-2-2478dc6d71ed.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08.avif": {
+      "source": "/assets/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08.avif",
+      "spellings": [
+        "/assets/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08.avif"
+      ],
+      "checksum": "eda8aaeaded4594eccf02160f8905d310baa627d52d4194edc114e26a577cbdc",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08-eda8aaeaded4",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581956/wazemtech/orvane/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08-eda8aaeaded4.avif",
+      "bytes": 10294,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581956,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581956/wazemtech/orvane/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08-eda8aaeaded4.avif",
+      "verified": true,
+      "deliveryBytes": 10294,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581956/wazemtech/orvane/82d1dfbaae-6a9661bf5d1b1243bed79205_blog-thumbnail-08-eda8aaeaded4.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8.avif": {
+      "source": "/assets/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8.avif",
+      "spellings": [
+        "/assets/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8.avif"
+      ],
+      "checksum": "946c5a4a3005513fb14991009d0663f43c5a033f6bfe4159ab77dd5bf60ecdde",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8-946c5a4a3005",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581956/wazemtech/orvane/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8-946c5a4a3005.avif",
+      "bytes": 22697,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581956,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581956/wazemtech/orvane/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8-946c5a4a3005.avif",
+      "verified": true,
+      "deliveryBytes": 22697,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581956/wazemtech/orvane/57b6004758-6a96606dc0d75d925f1796c7_blog-thumbnail-8-946c5a4a3005.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1.avif": {
+      "source": "/assets/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1.avif",
+      "spellings": [
+        "/assets/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1.avif"
+      ],
+      "checksum": "f95af8a0c5abe96c6b31ed5d3aaa12df787551866514e01fb947fb23e16c3140",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1-f95af8a0c5ab",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581957/wazemtech/orvane/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1-f95af8a0c5ab.avif",
+      "bytes": 59026,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581957,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581957/wazemtech/orvane/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1-f95af8a0c5ab.avif",
+      "verified": true,
+      "deliveryBytes": 59026,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581957/wazemtech/orvane/3eba7fb5c2-6a96605d943a531a960c7f0c_blog-thumbnail-1-f95af8a0c5ab.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9.avif": {
+      "source": "/assets/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9.avif",
+      "spellings": [
+        "/assets/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9.avif"
+      ],
+      "checksum": "afa552fb6b5342753bc6c4a1444c684c9bf67be126a15a6441d1d52ada79701b",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9-afa552fb6b53",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581957/wazemtech/orvane/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9-afa552fb6b53.avif",
+      "bytes": 48831,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581957,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581957/wazemtech/orvane/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9-afa552fb6b53.avif",
+      "verified": true,
+      "deliveryBytes": 48831,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581957/wazemtech/orvane/62ce28ab5a-6a966046d0d0a6674b9e0b81_blog-thumbnail-9-afa552fb6b53.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7.avif": {
+      "source": "/assets/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7.avif",
+      "spellings": [
+        "/assets/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7.avif"
+      ],
+      "checksum": "092fe2ebd25bf9c881dc7ec92182d4d1c1baa0e8bfbb2b0bf08572318ca4eda5",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7-092fe2ebd25b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581957/wazemtech/orvane/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7-092fe2ebd25b.avif",
+      "bytes": 29691,
+      "width": 1008,
+      "height": 660,
+      "version": 1792581957,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581957/wazemtech/orvane/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7-092fe2ebd25b.avif",
+      "verified": true,
+      "deliveryBytes": 29691,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581957/wazemtech/orvane/bd2b2edb1c-6a966034d0d0a6674b9e0461_blog-thumbnail-7-092fe2ebd25b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/ef5262b91a-6a719330656e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image.avif": {
+      "source": "/assets/ef5262b91a-6a719330656e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image.avif",
+      "spellings": [
+        "/assets/ef5262b91a-6a719330656e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image.avif"
+      ],
+      "checksum": "acb2a4f380a0858cc6a89bf07a7fdb2ce51711246fffa9bf39974f70ec354cce",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image-acb2a4f380a0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581958/wazemtech/orvane/e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image-acb2a4f380a0.avif",
+      "bytes": 66376,
+      "width": 3120,
+      "height": 1558,
+      "version": 1792581958,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581958/wazemtech/orvane/e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image-acb2a4f380a0.avif",
+      "verified": true,
+      "deliveryBytes": 66376,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581958/wazemtech/orvane/e46165525cfa5_54cfcf45ab404b494d85675da5f91ea4_contact-main-image-acb2a4f380a0.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/54690d0b56-6a708aba2b707ca87bd4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image.avif": {
+      "source": "/assets/54690d0b56-6a708aba2b707ca87bd4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image.avif",
+      "spellings": [
+        "/assets/54690d0b56-6a708aba2b707ca87bd4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image.avif"
+      ],
+      "checksum": "c0c133772370ff60c349f2e9d571399a56552bad9a494ca0b398c18bd7757af0",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image-c0c133772370",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581958/wazemtech/orvane/4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image-c0c133772370.avif",
+      "bytes": 150304,
+      "width": 3840,
+      "height": 2298,
+      "version": 1792581958,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581958/wazemtech/orvane/4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image-c0c133772370.avif",
+      "verified": true,
+      "deliveryBytes": 150304,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581958/wazemtech/orvane/4e4d4_5c7d733de326e39969bf999a123d5e14_home-two-hero-banner-image-c0c133772370.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2bddc7a93b-6a8bfee5ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model.avif": {
+      "source": "/assets/2bddc7a93b-6a8bfee5ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model.avif",
+      "spellings": [
+        "/assets/2bddc7a93b-6a8bfee5ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model.avif"
+      ],
+      "checksum": "86ab897263e05024f77150e44c3e610298d1193b39e4d5c32bf68ea38b37b9de",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model-86ab897263e0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581959/wazemtech/orvane/ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model-86ab897263e0.avif",
+      "bytes": 53331,
+      "width": 1110,
+      "height": 658,
+      "version": 1792581959,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581959/wazemtech/orvane/ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model-86ab897263e0.avif",
+      "verified": true,
+      "deliveryBytes": 53331,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581959/wazemtech/orvane/ff6786d45ae7b0f9_7f0b1deff696f554e622513b2dcb84ec_structure-model-86ab897263e0.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1.avif": {
+      "source": "/assets/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1.avif",
+      "spellings": [
+        "/assets/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1.avif"
+      ],
+      "checksum": "2290b674343fe6697426719335c0f91000877132bd08323ccd5e704eab747cfd",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1-2290b674343f",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581960/wazemtech/orvane/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1-2290b674343f.avif",
+      "bytes": 26665,
+      "width": 1800,
+      "height": 1022,
+      "version": 1792581960,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581960/wazemtech/orvane/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1-2290b674343f.avif",
+      "verified": true,
+      "deliveryBytes": 26665,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581960/wazemtech/orvane/e8fa5ea05e-6a8c2fe3fa33a5cf178f63ad_service-list-image-1-2290b674343f.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/fdba239f6a-6a8c02b49db9087ca3bebed2_service-about-icon.svg": {
+      "source": "/assets/fdba239f6a-6a8c02b49db9087ca3bebed2_service-about-icon.svg",
+      "spellings": [
+        "/assets/fdba239f6a-6a8c02b49db9087ca3bebed2_service-about-icon.svg"
+      ],
+      "checksum": "bfcea16d8bc810d03f08dbe025f0d8b745afb7f0031a42e125fd0b2664c6b466",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/fdba239f6a-6a8c02b49db9087ca3bebed2_service-about-icon-bfcea16d8bc8",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581959/wazemtech/orvane/fdba239f6a-6a8c02b49db9087ca3bebed2_service-about-icon-bfcea16d8bc8.svg",
+      "bytes": 848,
+      "width": 120,
+      "height": 72,
+      "version": 1792581959,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581959/wazemtech/orvane/fdba239f6a-6a8c02b49db9087ca3bebed2_service-about-icon-bfcea16d8bc8.svg",
+      "verified": true,
+      "deliveryBytes": 848,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2.avif": {
+      "source": "/assets/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2.avif",
+      "spellings": [
+        "/assets/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2.avif"
+      ],
+      "checksum": "8959e595348125bfcab77d7f31b1b85c1df759bf98b9b70263d8d137f8a519de",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2-8959e5953481",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581960/wazemtech/orvane/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2-8959e5953481.avif",
+      "bytes": 114577,
+      "width": 1800,
+      "height": 1022,
+      "version": 1792581960,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581960/wazemtech/orvane/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2-8959e5953481.avif",
+      "verified": true,
+      "deliveryBytes": 114577,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581960/wazemtech/orvane/95babbefa8-6a8c398abb8e7d310e049b73_service-list-image-2-8959e5953481.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3.avif": {
+      "source": "/assets/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3.avif",
+      "spellings": [
+        "/assets/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3.avif"
+      ],
+      "checksum": "0a830cd23fd0bde32a3b31367692eb86290125560eb38fb7d1c8c824ca3bc292",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3-0a830cd23fd0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581961/wazemtech/orvane/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3-0a830cd23fd0.avif",
+      "bytes": 80124,
+      "width": 1800,
+      "height": 1022,
+      "version": 1792581961,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581961/wazemtech/orvane/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3-0a830cd23fd0.avif",
+      "verified": true,
+      "deliveryBytes": 80124,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581961/wazemtech/orvane/beec53f8db-6a8c3a680b1ecb064c4da289_service-list-image-3-0a830cd23fd0.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7.avif": {
+      "source": "/assets/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7.avif",
+      "spellings": [
+        "/assets/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7.avif"
+      ],
+      "checksum": "ca1ac5ed5a9b42c698b353be5d9fbe46c788182ff26d1a369170f71a010c02e5",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7-ca1ac5ed5a9b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581961/wazemtech/orvane/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7-ca1ac5ed5a9b.avif",
+      "bytes": 32939,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581961,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581961/wazemtech/orvane/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7-ca1ac5ed5a9b.avif",
+      "verified": true,
+      "deliveryBytes": 32939,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581961/wazemtech/orvane/3634c7a9be-6a95596bbedcf8a93ac40add_portfolio-thumbnail-7-ca1ac5ed5a9b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background.avif": {
+      "source": "/assets/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background.avif",
+      "spellings": [
+        "/assets/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background.avif"
+      ],
+      "checksum": "7d5d0e5b236a0e73862d4ee1ed6f7df8f22b2597fdcec968c7ed5a8389fd619e",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background-7d5d0e5b236a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581961/wazemtech/orvane/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background-7d5d0e5b236a.avif",
+      "bytes": 99249,
+      "width": 3840,
+      "height": 2080,
+      "version": 1792581961,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581961/wazemtech/orvane/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background-7d5d0e5b236a.avif",
+      "verified": true,
+      "deliveryBytes": 99249,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581961/wazemtech/orvane/f492a35be6-6a8c22ad9749bc55a0a91a1a_service-innovation-background-7d5d0e5b236a.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6.avif": {
+      "source": "/assets/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6.avif",
+      "spellings": [
+        "/assets/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6.avif"
+      ],
+      "checksum": "39c0b2b347b443fae0a6840b65a2ab7f10c32acf801bfe5138d32b1b00706e70",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6-39c0b2b347b4",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581962/wazemtech/orvane/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6-39c0b2b347b4.avif",
+      "bytes": 128434,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581962,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581962/wazemtech/orvane/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6-39c0b2b347b4.avif",
+      "verified": true,
+      "deliveryBytes": 128434,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581962/wazemtech/orvane/d8f8ec4a9b-6a955951a7554b0545f1a2fc_portfolio-thumbnail-6-39c0b2b347b4.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main.avif": {
+      "source": "/assets/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main.avif",
+      "spellings": [
+        "/assets/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main.avif"
+      ],
+      "checksum": "676c41fbfdcde79fb08e4964020925c5071f7853bf12f43c64d435a03c6cb43f",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main-676c41fbfdcd",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581963/wazemtech/orvane/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main-676c41fbfdcd.avif",
+      "bytes": 59305,
+      "width": 1536,
+      "height": 1406,
+      "version": 1792581963,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581963/wazemtech/orvane/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main-676c41fbfdcd.avif",
+      "verified": true,
+      "deliveryBytes": 59305,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581963/wazemtech/orvane/8843506dd1-6a8c1bd49749bc55a0a4a61b_service-image-main-676c41fbfdcd.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01.avif": {
+      "source": "/assets/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01.avif",
+      "spellings": [
+        "/assets/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01.avif"
+      ],
+      "checksum": "7ff7b8a39f74a11342380eab842f03d5e304494bc0c72d5af06fe066cd5f3486",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01-7ff7b8a39f74",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581963/wazemtech/orvane/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01-7ff7b8a39f74.avif",
+      "bytes": 41504,
+      "width": 1008,
+      "height": 1168,
+      "version": 1792581963,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581963/wazemtech/orvane/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01-7ff7b8a39f74.avif",
+      "verified": true,
+      "deliveryBytes": 41504,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581963/wazemtech/orvane/03f26cb92f-6a8fce050ec37c4f7d23d6e2_team-image-small-01-7ff7b8a39f74.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/e330629b1c-6a951146be1c96a5dd09ac08_price-popular-tag.svg": {
+      "source": "/assets/e330629b1c-6a951146be1c96a5dd09ac08_price-popular-tag.svg",
+      "spellings": [
+        "/assets/e330629b1c-6a951146be1c96a5dd09ac08_price-popular-tag.svg"
+      ],
+      "checksum": "89c9073774e3a409868493d1c195068937754f223408e88e87e672ac3dec2bd0",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/e330629b1c-6a951146be1c96a5dd09ac08_price-popular-tag-89c9073774e3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581963/wazemtech/orvane/e330629b1c-6a951146be1c96a5dd09ac08_price-popular-tag-89c9073774e3.svg",
+      "bytes": 5669,
+      "width": 100,
+      "height": 30,
+      "version": 1792581963,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581963/wazemtech/orvane/e330629b1c-6a951146be1c96a5dd09ac08_price-popular-tag-89c9073774e3.svg",
+      "verified": true,
+      "deliveryBytes": 5669,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4.avif": {
+      "source": "/assets/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4.avif",
+      "spellings": [
+        "/assets/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4.avif"
+      ],
+      "checksum": "e46c6174e2e3dd214270670ce63058a90d089c1d9d4b3d4741000a94cf9a3216",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4-e46c6174e2e3",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581965/wazemtech/orvane/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4-e46c6174e2e3.avif",
+      "bytes": 117685,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581965,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581965/wazemtech/orvane/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4-e46c6174e2e3.avif",
+      "verified": true,
+      "deliveryBytes": 117685,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581965/wazemtech/orvane/65a2f327aa-6a95598976725cc3eecad448_portfolio-thumbnail-4-e46c6174e2e3.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02.avif": {
+      "source": "/assets/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02.avif",
+      "spellings": [
+        "/assets/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02.avif"
+      ],
+      "checksum": "823702bcbfd1bec2107a662049db1a2dbdd1ef9477f3ee2f6661a80896b38dc1",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02-823702bcbfd1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581964/wazemtech/orvane/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02-823702bcbfd1.avif",
+      "bytes": 63733,
+      "width": 1008,
+      "height": 1168,
+      "version": 1792581964,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581964/wazemtech/orvane/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02-823702bcbfd1.avif",
+      "verified": true,
+      "deliveryBytes": 63733,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581964/wazemtech/orvane/a0f020299f-6a8fce1cd2036c5185ab0c54_team-image-small-02-823702bcbfd1.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3.avif": {
+      "source": "/assets/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3.avif",
+      "spellings": [
+        "/assets/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3.avif"
+      ],
+      "checksum": "aa4c21c1fe1b5bb8dc3159fb6d9deb20c6a8e4cfe1f0b36c11125b1f6e386e33",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3-aa4c21c1fe1b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581965/wazemtech/orvane/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3-aa4c21c1fe1b.avif",
+      "bytes": 92848,
+      "width": 1536,
+      "height": 1152,
+      "version": 1792581965,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581965/wazemtech/orvane/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3-aa4c21c1fe1b.avif",
+      "verified": true,
+      "deliveryBytes": 92848,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581965/wazemtech/orvane/2d4d3aa42f-6a9559a582f384a2933142f9_portfolio-thumbnail-3-aa4c21c1fe1b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8.avif": {
+      "source": "/assets/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8.avif",
+      "spellings": [
+        "/assets/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8.avif"
+      ],
+      "checksum": "292b8ecb8ba63f87aa5fca98dd8b0833e9459ab2cb34ecd4707204e7bdfaae26",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8-292b8ecb8ba6",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581965/wazemtech/orvane/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8-292b8ecb8ba6.avif",
+      "bytes": 120079,
+      "width": 3840,
+      "height": 2000,
+      "version": 1792581965,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581965/wazemtech/orvane/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8-292b8ecb8ba6.avif",
+      "verified": true,
+      "deliveryBytes": 120079,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581965/wazemtech/orvane/8899b29e3c-6a955936ec8e30ddb93b131e_portfolio-details-hero-8-292b8ecb8ba6.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/da626f63cd-6a900bae128874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1.avif": {
+      "source": "/assets/da626f63cd-6a900bae128874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1.avif",
+      "spellings": [
+        "/assets/da626f63cd-6a900bae128874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1.avif"
+      ],
+      "checksum": "b938107af3b040c2d932aed82c2577662bb37582bf5ad5b9a77168418bc090d3",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1-b938107af3b0",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581966/wazemtech/orvane/8874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1-b938107af3b0.avif",
+      "bytes": 41069,
+      "width": 1272,
+      "height": 1184,
+      "version": 1792581966,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581966/wazemtech/orvane/8874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1-b938107af3b0.avif",
+      "verified": true,
+      "deliveryBytes": 41069,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581966/wazemtech/orvane/8874c2bc14ff6b_6a90088554d9e5f756124b46_portfolio-details-image-1-b938107af3b0.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/1d7b66d45e-6a900bae128874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2.avif": {
+      "source": "/assets/1d7b66d45e-6a900bae128874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2.avif",
+      "spellings": [
+        "/assets/1d7b66d45e-6a900bae128874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2.avif"
+      ],
+      "checksum": "2e9f61f0b85bea8639a12455ffd7e067f1126c1fb39b15d512763c123b047146",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2-2e9f61f0b85b",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581967/wazemtech/orvane/8874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2-2e9f61f0b85b.avif",
+      "bytes": 75060,
+      "width": 1272,
+      "height": 1184,
+      "version": 1792581967,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581967/wazemtech/orvane/8874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2-2e9f61f0b85b.avif",
+      "verified": true,
+      "deliveryBytes": 75060,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581967/wazemtech/orvane/8874c2bc14ff71_6a900885d7938137632c6c4c_portfolio-details-image-2-2e9f61f0b85b.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/f6be3277f6-6a900bae128874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3.avif": {
+      "source": "/assets/f6be3277f6-6a900bae128874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3.avif",
+      "spellings": [
+        "/assets/f6be3277f6-6a900bae128874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3.avif"
+      ],
+      "checksum": "cae4b274f72a37a9e470da7a40d45eec18fe2249d4046ac6170638d6eac6e728",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3-cae4b274f72a",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581967/wazemtech/orvane/8874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3-cae4b274f72a.avif",
+      "bytes": 81225,
+      "width": 1272,
+      "height": 1184,
+      "version": 1792581967,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581967/wazemtech/orvane/8874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3-cae4b274f72a.avif",
+      "verified": true,
+      "deliveryBytes": 81225,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581967/wazemtech/orvane/8874c2bc14ff74_6a900885cd99f2b5b730ddaf_portfolio-details-image-3-cae4b274f72a.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/2cd2d60048-6a900bae128874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4.avif": {
+      "source": "/assets/2cd2d60048-6a900bae128874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4.avif",
+      "spellings": [
+        "/assets/2cd2d60048-6a900bae128874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4.avif"
+      ],
+      "checksum": "e0f0e71a5beec0a4031c2c20fddfaab1f3fc2cfc28b35c7ed1d0a9f6ee05b0e3",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/8874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4-e0f0e71a5bee",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/8874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4-e0f0e71a5bee.avif",
+      "bytes": 123572,
+      "width": 1272,
+      "height": 1184,
+      "version": 1792581968,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/8874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4-e0f0e71a5bee.avif",
+      "verified": true,
+      "deliveryBytes": 123572,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581968/wazemtech/orvane/8874c2bc14ff83_6a900885db28f1e112734ada_portfolio-details-image-4-e0f0e71a5bee.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/eb9cdcdb15-6a719fcd35f44016d953335e_404-background.avif": {
+      "source": "/assets/eb9cdcdb15-6a719fcd35f44016d953335e_404-background.avif",
+      "spellings": [
+        "/assets/eb9cdcdb15-6a719fcd35f44016d953335e_404-background.avif"
+      ],
+      "checksum": "5145b0e8af5c96a40ed610475a5463a0099a73ff9baf434380f7a0c58419f6e5",
+      "resourceType": "image",
+      "extension": ".avif",
+      "publicId": "wazemtech/orvane/eb9cdcdb15-6a719fcd35f44016d953335e_404-background-5145b0e8af5c",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/eb9cdcdb15-6a719fcd35f44016d953335e_404-background-5145b0e8af5c.avif",
+      "bytes": 93216,
+      "width": 1920,
+      "height": 1000,
+      "version": 1792581968,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/eb9cdcdb15-6a719fcd35f44016d953335e_404-background-5145b0e8af5c.avif",
+      "verified": true,
+      "deliveryBytes": 93216,
+      "contentType": "image/avif",
+      "previousUrls": [
+        "https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581968/wazemtech/orvane/eb9cdcdb15-6a719fcd35f44016d953335e_404-background-5145b0e8af5c.avif"
+      ],
+      "optimization": "original-is-smaller"
+    },
+    "/assets/997f761a55-6a8d53e69749ca38d29d5192_check-icon.svg": {
+      "source": "/assets/997f761a55-6a8d53e69749ca38d29d5192_check-icon.svg",
+      "spellings": [
+        "/assets/997f761a55-6a8d53e69749ca38d29d5192_check-icon.svg"
+      ],
+      "checksum": "7e622f1174c491ea5704e60cdd32130277bf0b1209998ee6450e32be775fa05f",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/997f761a55-6a8d53e69749ca38d29d5192_check-icon-7e622f1174c4",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581969/wazemtech/orvane/997f761a55-6a8d53e69749ca38d29d5192_check-icon-7e622f1174c4.svg",
+      "bytes": 232,
+      "width": 12,
+      "height": 9,
+      "version": 1792581969,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581969/wazemtech/orvane/997f761a55-6a8d53e69749ca38d29d5192_check-icon-7e622f1174c4.svg",
+      "verified": true,
+      "deliveryBytes": 232,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles.svg": {
+      "source": "/assets/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles.svg",
+      "spellings": [
+        "/assets/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles.svg"
+      ],
+      "checksum": "28b011da7b55c7a59785c240886519886ff42dd1eac677a8af9f608dd135d783",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles-28b011da7b55",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles-28b011da7b55.svg",
+      "bytes": 318,
+      "width": 717,
+      "height": 602,
+      "version": 1792581968,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581968/wazemtech/orvane/d6def4801d-6a7afe867e9b274f32d9bc7c_slider-angles-28b011da7b55.svg",
+      "verified": true,
+      "deliveryBytes": 318,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/5ff0c03f9b-custom-checkbox-checkmark.589d534424.svg": {
+      "source": "/assets/5ff0c03f9b-custom-checkbox-checkmark.589d534424.svg",
+      "spellings": [
+        "/assets/5ff0c03f9b-custom-checkbox-checkmark.589d534424.svg"
+      ],
+      "checksum": "121f8dc257d116b52e8d91b2c735fd52e7516c268b6c721c60ac45d22d5e6404",
+      "resourceType": "image",
+      "extension": ".svg",
+      "publicId": "wazemtech/orvane/5ff0c03f9b-custom-checkbox-checkmark-589d534424-121f8dc257d1",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581969/wazemtech/orvane/5ff0c03f9b-custom-checkbox-checkmark-589d534424-121f8dc257d1.svg",
+      "bytes": 167,
+      "width": 13,
+      "height": 11,
+      "version": 1792581969,
+      "url": "https://res.cloudinary.com/dj4rfocct/image/upload/v1792581969/wazemtech/orvane/5ff0c03f9b-custom-checkbox-checkmark-589d534424-121f8dc257d1.svg",
+      "verified": true,
+      "deliveryBytes": 167,
+      "contentType": "image/svg+xml"
+    },
+    "/assets/be5810aad1-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.woff2": {
+      "source": "/assets/be5810aad1-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.woff2",
+      "spellings": [
+        "/assets/be5810aad1-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d.woff2"
+      ],
+      "checksum": "0a2b6c32d4c40bf942df7cf1a1ddbac452c05fb40dff797b1f3ab5b67625e6dc",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/orvane/5810aad1-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d-0a2b6c32d4c4.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582023/wazemtech/orvane/5810aad1-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d-0a2b6c32d4c4.woff2",
+      "bytes": 33284,
+      "version": 1792582023,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582023/wazemtech/orvane/5810aad1-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyDPA99d-0a2b6c32d4c4.woff2",
+      "verified": true,
+      "deliveryBytes": 33284,
+      "contentType": "font/woff2"
+    },
+    "/assets/8b671e0bc5-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d.woff2": {
+      "source": "/assets/8b671e0bc5-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d.woff2",
+      "spellings": [
+        "/assets/8b671e0bc5-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d.woff2"
+      ],
+      "checksum": "85a525aed47f1ff9adbfd1ce186b57c1aa8beeedf85b0897bf10165f70bc22db",
+      "resourceType": "raw",
+      "extension": ".woff2",
+      "publicId": "wazemtech/orvane/671e0bc5-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d-85a525aed47f.woff2",
+      "secureUrl": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582023/wazemtech/orvane/671e0bc5-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d-85a525aed47f.woff2",
+      "bytes": 33232,
+      "version": 1792582023,
+      "url": "https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582023/wazemtech/orvane/671e0bc5-o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A99d-85a525aed47f.woff2",
+      "verified": true,
+      "deliveryBytes": 33232,
+      "contentType": "font/woff2"
+    }
+  }
+}
