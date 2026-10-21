@@ -1,0 +1,34 @@
+.orvane-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 36px;
+  color: #b8d9e8;
+  white-space: nowrap;
+}
+.orvane-brand__mark {
+  display: block;
+  width: 34px;
+  height: 34px;
+  object-fit: contain;
+}
+.orvane-brand__name {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-family--primary-font);
+  font-size: 25px;
+  line-height: 1;
+}
+.orvane-brand__name > span {
+  padding-top: 3px;
+  font-family: var(--font-family--secondary-font);
+  font-size: 9px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+.aroclux-site ::selection { color: #111719; background: #b8d9e8; }
+.aroclux-site .rt-footer-v1-content-wrap > .rt-text-style-h4 { color: #d89b7b; }
+@media (max-width: 479px) {
+  .orvane-brand__name { font-size: 23px; }
+  .orvane-brand__mark { width: 30px; height: 30px; }
+}
